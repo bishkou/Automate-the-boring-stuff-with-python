@@ -1,0 +1,68 @@
+Section V - MINERAL PRODUCTS
+Chapter 25 Salt; sulphur; earths and stone; plastering materials, lime and cement 
+20426100 
+Heading: 2501.00.00 
+Instrument: 
+Description: 
+Salt, agglomerated under pressure into
+blocks, consisting of sodium chloride (at least
+95 %) with small quantities of added trace-
+elements of a kind found in certain natural
+forms of salt (such as magnesium, copper,
+manganese and cobalt), for use as salt licks
+for livestock. 
+Status: 
+F 
+Date: 
+10/04/2012 
+Change_Date: 
+Reason: 
+Salt licks, used as supplements for animals, remain classifiable to
+2501.00.00 when trace elements are added. 
+20351400 
+Heading: 2528.00.00 
+Status: 
+F
+Instrument:
+Date: 
+17/01/2012 
+Change_Date: 
+Description: 
+Reason: 
+Colemanite being the ore of calcium borate
+Terms of heading 2528 include natural borate minerals as extracted,
+used to replace boric acid in the manufacture
+including concentrates formed in evaporite deposits. Calcium borate is a
+of glass fibres. 
+natural borate and, as colemanite, is found in playa lakes and other
+evaporite deposits.
+19572900 
+Heading: 2530.90.00
+ 
+Instrument:
+
+Description:
+ 
+This precedent clarifies the meaning of
+levigated as used in Note 1 to Chapter 25 and
+has application throughout Chapter 25. 
+Status: 
+F
+Date: 
+9/10/2009 
+Change_Date: 
+9/10/2009 
+Reason: 
+Chapter 25 relates to crude minerals, and Note 1 of Chapter 25 specifies
+what processes such minerals can undergo whilst still staying within Chapter
+25. In the context of mineral processing, levigation refers to processes
+clearly understood by industry. It can refer to the classification of a material
+in regard to particle size by determining the rate of settling from a
+suspension. However, in terms of active processing of minerals, levigation is
+the separation of fine powder from coarser material by forming a
+suspension of the fine material in a liquid.
+End of Chapter 25 
+Number of records for Chapter: 
+3 
+Section V - MINERAL PRODUCTS
+Page 24 of 147

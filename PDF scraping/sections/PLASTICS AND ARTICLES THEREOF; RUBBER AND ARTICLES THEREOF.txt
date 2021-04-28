@@ -1,0 +1,277 @@
+Section VII - PLASTICS AND ARTICLES THEREOF; RUBBER AND ARTICLES THEREOF
+Chapter 39 Plastics and articles thereof 
+19576300 
+Heading: 3917.10.00 
+Status: 
+F
+Instrument:
+Date: 
+9/10/2009 
+Change_Date: 
+Description: 
+Reason: 
+Sausage casings of hardened protein or of
+Note 8 to Chapter 39 states that "Tubes, pipes and hoses" of 3917 also
+cellulosic materials. They are used as casing
+includes sausage casings and other lay-flat tubing. 
+for fresh frying sausages, frankfurters, devon
+sausage, salami and like sausage products. 
+19873700 
+Heading: 3923.90.00 
+Instrument: 
+Description: 
+Plastic tubular containers with one end
+threaded and secured with a screw type cap
+and the other end left open. The outer
+surface of the plastic tube bears printing that
+gives such information as brand names,
+ingredients, properties etc. 
+These containers are intended to be filled with
+a product, for example shampoo, and then the
+open end will be sealed with clamps, using a
+thermal process 
+Status: 
+F 
+Date: 
+30/06/2010 
+Change_Date: 
+Reason: 
+These containers are used for packing goods, such as cosmetic
+preparations, for retail sale and fall to 3923.90.00. 
+This reflects the classification decision taken by the World Customs
+Organization. 
+19670800 
+Heading: 3923.90.00 
+Instrument:
+Description: 
+Plastic hangers being solely or principally for
+use in the in-store conveyance and packaging
+of garments and garment accessories.
+Indications that they are intended for
+conveyance and packaging as their sole or
+principle purpose may include such features
+as:
+* the incorporation of sizing indicators such as
+colour coded tags;
+* the presence of brand or store labelling
+printed, moulded or otherwise permanently
+incorporated into the hangers;
+* sizing and design particular to a type of
+garment not normally hung in the household,
+e.g. underwear; or
+* flimsy or low-value construction and
+intended to be discarded, recycled or for
+limited reuse.
+Status: 
+F
+Date: 
+21/12/2009 
+Change_Date: 
+Reason: 
+These hangers are principally designed for the moving of garments in a
+retail environment and acting as a form of packing that allows the goods to
+be stored and displayed on racks. They may be imported separately or they
+may be imported with garments on the hangers.
+They may also have features that allow for the display of information (e.g.
+sizing tags) or for limited advertising (e.g. brand markings permanently
+marked on the hangers). However, it is considered that these are
+secondary to the principle use as articles for the conveying or packing of
+goods. They are not of the type that would normally be used as household
+hangers.
+The list of features given in the description is indicative of the type of
+features that may show that the hangers are goods of 3923.
+This classification does not apply to hangers that are designed to be used
+in the post-retail environment, particularly households, for the hanging of
+garments which are classifiable in 3924.90.00. 
+Section VII - PLASTICS AND ARTICLES THEREOF; RUBBER AND ARTICLES THEREOF
+Page 31 of 14719928500 
+Heading: 3924.90.00 
+Status: 
+F 
+Instrument: 
+Description: 
+Plastic drinking bottles of the types usually
+called “sports bottles” and are designed
+specifically for repetitive filling and re-use and
+are intended for sale to the ultimate purchaser
+as empty bottles. These bottles usually have
+either a pop-top opening or plastic straw and
+stopper construction and may have either a
+separate push top or flip top cover to protect
+the drinking top/straw.
+The types of bottles covered by this precedent
+are not designed for the packaging and
+conveyance of commodities to the consumer
+and hence have no tamper-proof or tamper-
+evident features such as snap rings. 
+19670900 
+Heading: 3925.20.00 
+Instrument:
+Description: 
+Pet doors, commonly known as cat or dog
+flaps, being a plastic fitting with a hinged flap,
+designed to be fitted onto house doors to
+enable pets access. 
+Date: 
+26/08/2010 
+Change_Date: 
+Reason: 
+While 3923 covers plastic bottles for the conveyance or packing of goods,
+these bottles are not designed to be filled with beverages and sold in a filled
+condition to the ultimate consumer. They are designed to be filled by the
+consumer and to hold beverages for drinking.
+While the consumer may
+convey the bottle from one place to another before, or while, drinking, the
+purpose of these bottles is to hold the beverage in a fashion that facilitates
+its consumption while the consumer is in motion.
+3924 covers tableware, kitchenware and other household articles of plastic.
+The Macquarie Dictionary relevantly defines household as (noun) “the
+people of a house collectively; in previous times, a family, including
+servants, etc.; a domestic establishment” and (adjective) “of or relating to a
+household; domestic”. The types of articles covered by 3924 are those that
+are used in the normal course of living (in, or by the members of, the
+household) as opposed to goods appropriate to the spheres of industry or
+commerce.
+3924 covers articles for the preparation, serving or consumption of food and
+beverages in domestic situations as well as the types of goods typically
+used in or around the home. These goods remain here even when they may
+be used in other settings. For example picnic sets, take-away plastic
+cutlery, lunch boxes, furniture slip covers etc remain classified although they
+may be used outside of the home or in commercial settings. 
+These bottles are not tableware, nor are they kitchenware. However they
+are classifiable as other household articles to 3924.90.00. 
+Status: 
+F
+Date: 
+21/12/2009 
+Change_Date: 
+Reason: 
+Chapter 39, Note 11(d) that lists the items covered by heading 3925
+specifically includes 'Doors, windows and their frames and thresholds for
+doors'.
+The Macquarie Dictionary defines a door as "a moveable barrier of wood or
+other material, commonly turning on hinges or sliding in a groove, for
+closing and opening a passage or opening onto a building, room or
+cupboard, etc." The goods in question fit within that definition in that they
+are a moveable barrier of plastic, turning on a top hinge, for opening and
+closing a passage into a building or room.
+In addition, doors in subheading 3925.20.00 are not qualified in any way, i.e.
+there is no stipulation that the doors must necessarily be for human use, nor
+is there any such requirement in the Harmonized System Explanatory Notes
+to 3925.
+Therefore, the subject goods are classified as builder's wares of plastic, at
+heading level and at subheading level as a door vide IR 1 & 6. 
+19576400 
+Heading: 3926.20.29 
+Status: 
+F
+Instrument:
+Date: 
+9/10/2009 
+Change_Date: 
+Description: 
+Reason: 
+Babies' pilchers of plastic material. Pilchers
+Pilchers are identified as garments not clothing accessories.
+are worn over the babies' nappy. Their main
+function is to prevent moisture seeping from
+the babies' wet nappy and thus protect other
+clothing, bedding etc. 
+Section VII - PLASTICS AND ARTICLES THEREOF; RUBBER AND ARTICLES THEREOF
+Page 32 of 14719671000 
+Heading: 3926.40.00 
+Status: 
+F
+Instrument:
+Date: 
+21/12/2009 
+Change_Date: 
+Description: 
+Reason: 
+Animal figurines made from poly resin
+Although these articles may be attractive to children, they are considered to
+designed for display, e.g. Beatrix Potter style
+be ornamental goods. Classification is to 3926.40.00.
+figures.
+19576500 
+Heading: 3926.90.90 
+Instrument:
+Description: 
+Throw over style PVC dust covers for
+computer terminals.
+The covers, which are designed to be placed
+over ADP terminals when not in use, help
+guard against damage caused by dust,
+accidental spillage, general grime etc.
+ 
+Status: 
+F
+Date: 
+9/10/2009 
+Change_Date: 
+Reason: 
+Heading 8473 is the heading for parts and accessories for ADP machines,
+however, even if the goods are considered to be accessories, they are
+excluded by the terms of heading 8473, which qualify parts and accessories
+by stating "other than covers, carrying cases and the like".
+The goods are classified to heading 3926, which also covers other plastic
+covers that protect from dust and dirt - the Harmonized System Explanatory
+Notes give as examples "dust-sheets, protective bags, awnings, file-covers,
+document-jackets, book covers and reading jackets, and similar protective
+goods made by sewing or glueing together sheets of plastics". 
+19671100 
+Heading: 3926.90.90 
+Status: 
+F
+Instrument:
+Date: 
+21/12/2009 
+Change_Date: 
+Description: 
+Inflatable plastic mattresses, cushions or
+pillows.
+Reason: 
+Excluded from Chapter 94 by Chapter 94 Note 1(d). Classified as
+articles of plastic. 
+other
+19671200 
+Heading: 3926.90.90 
+Status: 
+F
+Instrument:
+Date: 
+21/12/2009 
+Change_Date: 
+Description: 
+Plastic belt buckles.
+Reason: 
+Considered to be a part for a clothing accessory rather than a clothing
+accessory. Classified as an 'other article of plastic'.
+End of Chapter 39 
+Number of records for Chapter: 
+10 
+Rubber and articles thereof 
+Chapter 40 
+19875700 
+Heading: 4011.10.00 
+Status: 
+F 
+Instrument: 
+Date: 
+2/07/2010 
+Change_Date: 
+Description: 
+Reason: 
+New pneumatic tyres for use on four-wheel
+drive vehicles. 
+While four wheel drive vehicles, that fit the criteria in Chapter 87 Additional
+Note 4, are not classified as passenger motor vehicles for the purposes of
+8703, they remain motor vehicles. 
+Classification of new pneumatic tyres for these vehicles falls to 4011.10.00
+which covers new pneumatic tyres, of rubber, of a kind used on motor cars
+(including station wagons and racing cars). 
+End of Chapter 40 
+Number of records for Chapter: 
+1 
+Section VII - PLASTICS AND ARTICLES THEREOF; RUBBER AND ARTICLES THEREOF
+Page 33 of 147

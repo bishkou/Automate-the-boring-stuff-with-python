@@ -1,0 +1,2775 @@
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL EQUIPMENT; PARTS THEREOF; SOUND R 
+Chapter 84 Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof 
+19670400 
+Heading: 8408.10.00
+ 
+Instrument:
+
+Description:
+ 
+Marine diesel engine with a gearbox. The
+engine and gearbox form a complete unit and
+cannot be separated. 
+Status: 
+F
+Date: 
+21/12/2009 
+Change_Date: 
+21/12/2009 
+Reason: 
+Note 3 to Section 16 applies to the composite good. The principle function
+is considered to be providing the motive power and this is performed by the
+engine. The Harmonized System Explanatory Notes confirm this, stating in
+the notes to 8483 that "The heading does not cover gear boxes or other
+variable speed changers combined with a motor".
+19670000 
+Heading: 8410.11.00 
+Instrument:
+Description: 
+Downhole motor being a turbine rotor and
+stator configuration, commonly referred to as
+a tubodrill, of a power not exceeding 1,000
+kW. The activating mud or water is pumped
+at high velocity through the motor. The angle
+of the vanes of the rotor and stator cause the
+fluid to deflect from the stationary stators on
+the turbine body onto the vanes of the rotors.
+This turns the rotors which are locked to the
+drive shaft, causing the drive shaft to turn and
+hence the bit sub and the bit to rotate. 
+Status: 
+F
+Date: 
+21/12/2009 
+Change_Date: 
+21/12/2009 
+Reason: 
+Good is identified as hydraulic turbine as it works by transforming the energy
+possessed by moving liquids into directly into motive power, being the
+mechanical energy of rotating drive shaft, which then turns the bit sub and
+bit. Torque (the rotational force) is a function of flow rate, mud density,
+blade angle and the number of stages, and varies if weight-on-bit varies.
+Classification is to 8410.1 with the remainder of the item number determined
+by the power rating. In the case of turbodrills of 1,000 kW power or less, to
+8410.11.00. Downhole motors which are hydraulically driven positive
+displacement motors are not covered by this opinion and are classifiable in
+8412.29.00. (See 19669900) 
+19670100 
+Heading: 8410.12.00 
+Instrument:
+Description: 
+Downhole motor being a turbine rotor and
+stator configuration, commonly referred to as
+a tubodrill, of a power exceeding 1,000 kW
+but not exceeding 10,000 kW. The activating
+mud or water is pumped at high velocity
+through the motor. The angle of the vanes of
+the rotor and stator cause the fluid to deflect
+from the stationary stators on the turbine body
+onto the vanes of the rotors. This turns the
+rotors which are locked to the drive shaft,
+causing the drive shaft to turn and hence the
+bit sub and the bit to rotate. 
+Status: 
+F
+Date: 
+21/12/2009 
+Change_Date: 
+21/12/2009 
+Reason: 
+Good is identified as hydraulic turbine as it works by transforming the energy
+possessed by moving liquids into directly into motive power, being the
+mechanical energy of rotating drive shaft, which then turns the bit sub and
+bit. Torque (the rotational force) is a function of flow rate, mud density,
+blade angle and the number of stages, and varies if weight-on-bit varies.
+Classification is to 8410.1 with the remainder of the item number determined
+by the power rating. In the case of turbodrills of above 1,000 kW power but
+not exceeding 10,000 kW, to 8410.12.00. Downhole motors which are
+hydraulically driven positive displacement motors are not covered by this
+opinion and are classifiable in 8412.29.00. (See 19669900) 
+19670200 
+Heading: 8410.13.00 
+Instrument:
+Description: 
+Downhole motor being a turbine rotor and
+stator configuration, commonly referred to as
+a tubodrill, of a power exceeding 10,000 kW.
+The activating mud or water is pumped at high
+velocity through the motor. The angle of the
+vanes of the rotor and stator cause the fluid to
+deflect from the stationary stators on the
+turbine body onto the vanes of the rotors.
+This turns the rotors which are locked to the
+drive shaft, causing the drive shaft to turn and
+hence the bit sub and the bit to rotate. 
+Status: 
+F
+Date: 
+21/12/2009 
+Change_Date: 
+21/12/2009 
+Reason: 
+Good is identified as hydraulic turbine as it works by transforming the energy
+possessed by moving liquids directly into motive power, being the
+mechanical energy of rotating drive shaft, which then turns the bit sub and
+bit. Torque (the rotational force) is a function of flow rate, mud density, blade
+angle and the number of stages, and varies if weight-on-bit varies.
+Classification is to 8410.1 with the remainder of the item number determined
+by the power rating. In the case of turbodrills with a power rating greater
+than 10,000 kW, to 8410.13.00. Downhole motors which are hydraulically
+driven positive displacement motors are not covered by this opinion and are
+classifiable in 8412.29.00. (See 19669900) 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 80 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,19669900 
+Heading: 8412.29.00 
+Instrument:
+Description: 
+Downhole motor being a hydraulically driven
+positive displacement motor. These generally
+have four components: the by-pass or dump
+valve, the motor, the universal joint or
+connecting rod section and the bearing and
+drive shaft assembly. The motor component
+is a spiral or helix shaped steel shaft (the
+rotor) rotating within a rubber-sleeved stator.
+The stator has one more lobe than the rotor,
+hence motors are described as 1/2, 3/4, 5/6 or
+9/10 motors depending on the number of
+lobes on the rotor & stator. As the fluid is
+pumped into the motor, its passage through
+the cavities between the rotor and stator
+displaces the rotor, forcing it to turn. This
+rotational movement is eventually transmitted
+to the drill bit. 
+Status: 
+F
+Date: 
+21/12/2009 
+Change_Date: 
+21/12/2009 
+Reason: 
+These goods are hydraulic motors which are powered by pressurized
+hydraulic fluid and transfer rotational kinetic energy to mechanical devices.
+In these motors, torque (the rotating force) is directly proportional to the
+motor's differential pressure. This opinion does not cover turbodrills (see
+19670000, 19670100 and 19670200)
+20780600 
+Heading: 8412.90.10 
+Instrument: 
+Description: 
+Rotor blades for wind powered generators,
+commonly called wind turbines.
+Wind powered generators are wind-driven
+electric generators, also called wind power
+plants, wind turbine generators, wind driven
+generators or wind-turbine powered
+generators. A wind powered generator
+operates by directly converting the kinetic
+energy of the wind into mechanical energy by
+the action of the wind turning the blades or
+propeller of an engine or rotor. The rotor is
+connected to the main shaft, which spins a
+generator to create electricity. 
+The wind engine is composed of the hub,
+nose cone and blades. A low-speed shaft
+transfers the rotational energy into the nacelle,
+which contains the generator. The hub may
+also contain other equipment such as the
+pitch controls. 
+Rotor blades for wind powered generators can
+be made from fibreglass epoxy resin,
+aluminium or composite materials and can
+range in size from a diameter of a metre or
+less to 40 to 90 metres or more. 
+Status: 
+F 
+Date: 
+1/08/2013 
+Change_Date: 
+Reason: 
+A wind engine, or rotor, imported together with a generator is identified and
+classified as an electric generating set as the wind engine forms the main
+driver (being a rotor or motor) to the generator. Therefore wind powered
+generators are classified to heading 8502. The Harmonised System
+Explanatory Notes confirms this in the notes to 8502 and 8412. Imported
+separately a complete wind engine is classified to subheading 8412.80.00
+and the generator to heading 8501. 
+The blades are an integral component part of a wind engine, which
+comprises the blades, hub and nose cone, of 8412. Goods that are
+identifiable as parts of machines or apparatus of Chapter 84 or Chapter 85
+are classified in accordance with Section XVI, Note 2. Note 2(a) requires
+parts that are goods included in any of the headings of Chapters 84 and 85
+to be classified in their respective headings. Note 2(b) requires other parts,
+if suitable for use solely or principally with a particular machine or with a
+number of machines of the same heading, to be classified with the
+machines of that kind. In this case, as no heading in Chapters 84 or 85
+describes the blades, they are classified by application of Note 2(b) to
+Section XVI, as "parts" suitable for use solely or principally for wind engines. 
+Classification of rotor blades for wind powered generators is therefore
+subheading 8412.90.10, as parts of engines of subheading 8412.80.00.
+Interpretative Rule 1 and 6 and Section XVI Note 2(b). 
+19670300 
+Heading: 8413.19.00 
+Instrument:
+Description: 
+Liquid laundry detergent supply dispensers
+used in commercial laundries for injecting
+detergent into washing machines. They
+consist of peristaltic pumps attached to
+control apparatus for determining both the
+quantity of detergent injected and also the
+timing of that injection. The control unit is
+wired to the washing machine control
+apparatus. 
+Status: 
+F
+Date: 
+21/12/2009 
+Change_Date: 
+21/12/2009 
+Reason: 
+The goods are classified as pumps fitted with measuring devices. The
+control unit is for the control of the device itself and does not make the
+dispenser a control device. 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 81 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,20194700 
+Heading: 8413.50.10 
+Status: 
+F 
+Instrument:
+ 
+Description:
+ 
+This precedent provides clarification of the
+term 'mining' in relation to this subheading.
+ 
+20194800 
+Heading: 8413.60.10
+ 
+Instrument:
+ 
+Description:
+ 
+This precedent provides clarification of the
+term 'mining' in relation to this subheading. 
+Date: 
+26/07/2011 
+Change_Date: 
+Reason: 
+For the purpose of this subheading, mining is considered to be the
+extraction of minerals occurring naturally as solids such as coal and ores,
+liquids such as crude petroleum, or gases such as natural gas.
+'Mining industries' are those involved directly in such activities, but do not
+include support services or exploration.
+Exploration and other mining support services are not considered to be
+mining industries, but related or auxillary industries.
+Only pumps specifically designed for use in the mining industry, whether or
+not also used in like activities in mining support services or mineral
+exploration, will be considered to be "specially designed for use in the
+mining (...) industries".
+In demonstrating that a pump is specifically designed for the mining
+industry, reference must be made to the phsyical features and specifications
+of the pump.
+General use pumps or pumps designed for use in another or multiple
+industries are not classifiable regardless of the intended or actual end use of
+the pump. 
+Status: 
+F 
+Date: 
+26/07/2011 
+Change_Date: 
+Reason: 
+For the purpose of this subheading, mining is considered to be the
+extraction of minerals occurring naturally as solids such as coal and ores,
+liquids such as crude petroleum, or gases such as natural gas.
+'Mining industries' are those involved directly in such activities, but do not
+include support services or exploration.
+Exploration and other mining support services are not considered to be
+mining industries, but related or auxillary industries.
+Only pumps specifically designed for use in the mining industry, whether or
+not also used in like activities in mining support services or mineral
+exploration, will be considered to be "specially designed for use in the
+mining (...) industries".
+In demonstrating that a pump is specifically designed for the mining
+industry, reference must be made to the physical features and specifications
+of the pump.
+General use pumps or pumps designed for use in another or multiple
+industries are not classifiable, regardless of the intended or actual end use
+of the pump. 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 82 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,20194900 
+Heading: 8413.70.10 
+Status: 
+F 
+Instrument:
+ 
+Description:
+ 
+This precedent provides clarification of the
+term 'mining' in relation to this subheading.
+ 
+20195000 
+Heading: 8413.81.10
+ 
+Instrument:
+ 
+Description:
+ 
+This precedent provides clarification of the
+term 'mining' in relation to this subheading. 
+Date: 
+26/07/2011 
+Change_Date: 
+Reason: 
+For the purpose of this subheading, mining is considered to be the
+extraction of minerals occurring naturally as solids such as coal and ores,
+liquids such as crude petroleum, or gases such as natural gas.
+'Mining industries' are those involved directly in such activities, but do not
+include support services or exploration.
+Exploration and other mining support services are not considered to be
+mining industries, but related or auxillary industries.
+Only pumps specifically designed for use in the mining industry, whether or
+not also used in like activities in mining support services or mineral
+exploration, will be considered to be "specially designed for use in the
+mining (...) industries".
+In demonstrating that a pump is specifically designed for the mining
+industry, reference must be made to the physical features and specifications
+of the pump.
+General use pumps or pumps designed for use in another or multiple
+industries are not classifiable regardless of the intended or actual end use of
+the pump. 
+Status: 
+F 
+Date: 
+26/07/2011 
+Change_Date: 
+Reason: 
+For the purpose of this subheading, mining is considered to be the
+extraction of minerals occurring naturally as solids such as coal and ores,
+liquids such as crude petroleum, or gases such as natural gas.
+'Mining industries' are those involved directly in such activities, but do not
+include support services or exploration.
+Exploration and other mining support services are not considered to be
+mining industries, but related or auxillary industries.
+Only pumps specifically designed for use in the mining industry, whether or
+not also used in like activities in mining support services or mineral
+exploration, will be considered to be "specially designed for use in the
+mining (...) industries".
+In demonstrating that a pump is specifically designed for the mining
+industry, reference must be made to the physical features and specifications
+of the pump.
+General use pumps or pumps designed for use in another or multiple
+industries are not classifiable, regardless of the intended or actual end use
+of the pump. 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 83 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,20194000 
+Heading: 8413.91.10 
+Status: 
+F 
+Instrument: 
+Date: 
+26/07/2011 
+Change_Date: 
+Description: 
+Reason: 
+This precedent provides clarification of the
+term 'mining' in relation to this subheading. 
+For the purpose of this subheading, mining is considered to be the
+extraction of minerals occurring naturally as solids such as coal and ores,
+liquids such as crude petroleum, or gases such as natural gas.
+'Mining industries' are those involved directly in such activities, but do not
+include support services or exploration.
+Exploration and other mining support services are not considered to be
+mining industries, but related or auxillary industries.
+Only pumps specifically designed for use in the mining industry, whether or
+not also used in like activities in mining support services or mineral
+exploration, will be considered to be "specially designed for use in the
+mining (...) industries".
+In demonstrating that a pump is specifically designed for the mining
+industry, reference must be made to the physical features and specifications
+of the pump.
+General use pumps or pumps designed for use in another or multiple
+industries are not classifiabl, regardless of the intended or actual end use of
+the pump. 
+20425900 
+Heading: 8419.40.00 
+Instrument: 
+Description: 
+Rotary vacuum evaporators for concentrating
+and distilling organic substances, consisting of
+glass components (evaporation flasks, coil
+condenser, recipient for collecting the
+distillate, tubes and valves) and metal
+components (tubular frame, electric motor
+with variable drive, electrically heated bath
+with hydraulic lift for vertical adjustment), the
+whole being fixed on a trolley-type base of
+metal. 
+Status: 
+F 
+Date: 
+10/04/2012 
+Change_Date: 
+Reason: 
+The substantial and significant nature of the non-glass components renders
+them more than the 
+goods excluded by Chapter 84 Note 1(c). 
+These goods are identified as distilling apparatus of 8419.40.00. 
+20425600 
+Heading: 8419.89.90 
+Instrument: 
+Description: 
+Heating mantles. The heating mantles
+covered in this precedent are a heating
+element, generally of electrically insulated
+wire heating resistors, enclosed in or stitched
+to a fibreglass fabric surface. 
+This includes heating mantles where the
+heating element and fibreglass cloth are
+enclosed in a metal casing and designed for
+fitting as heating elements in autoclaves or
+apparatus used in laboratories or in the food
+industry. 
+It also includes heating mantles where the
+heating element and fibreglass cloth are not
+enclosed in a metal casing but are specially
+designed either to accommodate the drums,
+tanks and othe
+containers to be heated or to be fixed around
+containers or conduits. 
+Status: 
+F 
+Date: 
+10/04/2012 
+Change_Date: 
+Reason: 
+These heating elements are complete goods in their own right and are
+classified in 8419.89.00.
+When imported as parts they remain classified in 8419.89.00 under Section
+XVI Note 2(a). 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 84 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,20471900 
+Heading: 8419.90.00 
+Status: 
+F 
+Instrument: 
+Description: 
+Steel flat-plate absorbers, being plate
+elements that are specially processed and
+treated for high absorption of solar rays, used
+for fixing to roof mounted solar water heaters. 
+19583100 
+Heading: 8419.90.00
+ 
+Instrument:
+
+Description:
+ 
+Corrugated, perforated and shaped plates for
+plate heat exchangers.
+Status: 
+F
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Reason: 
+In order for a metal plate to be classified in Chapter 84, it must have the
+character of either an article of Chapter 84 or a part of such an article. In
+regard to pates for heat exchangers that are corrugated plates, pierced with
+holes for layering on the frame of the exchanger and cut to shape the
+combination of corrugation, perforation and shaping is generally sufficient
+working to distinguish them from corrugated flats of Chapter 72 and to
+identify the goods as having the character of heat exchanger plates.
+Identifiable heat exchanger plates are classified to 8419.90.00 under
+Section XVI Note 2(b) as parts. Where the amount of working is insufficient
+to allow objective identification as heat exchanger plates, for example
+corrugated plate not cut to shape, the goods are normally classifiable as flat-
+rolled products of Chapter 72. These flat rolled products can include those
+with patterns in relief derived directly from rolling (for example, grooves,
+ribs, chequers, tears, buttons, lozenges) and those which have been
+perforated, corrugated or polished.
+19734800 
+Heading: 8420.10.00
+ 
+Instrument:
+ 
+Description:
+ 
+Pastry rolling machine for rolling dough into a
+continuous sheet of pastry. 
+Status: 
+F 
+Date: 
+23/02/2010 
+Change_Date: 
+23/02/2010 
+Reason: 
+The machine answers to the terms of 8420 (as a rolling machine) and 8438
+(as a machine for the industrial preparation or manufacture of food). Chapter
+84 Note 2 directs classification where a good meets the terms of one or
+more of the headings 8401 to 8424, or heading 8486, and at the same time
+to a description in one or other of the headings 8425 to 8480. The good is
+not affected by the conditions or specified exceptions in the Note. Therefore
+classification is to the former heading, 8420, as per the Note. Classification
+is to 8420.10.00 
+19583200 
+Heading: 8421.19.00
+ 
+Instrument:
+
+Description:
+ 
+Laboratory centrifuges
+ 
+Date: 
+28/05/2012 
+Change_Date: 
+Reason: 
+The plates covered have had specific treatments applied, generally in the
+form of a surface coating, in order to increase the proportion of the solar
+radiation converted into heat and to reduce the emission of heat. Examples
+of such treatments include solar selective coatings such as black chrome,
+black nickel, aluminum oxide with nickel and titanium-nitride-oxide. 
+Solar water heating systems fall to 8419.19.00. The treatments make the
+plates identifiable as parts of flat plate collectors for solar water heating
+systems. Therefore the treated plates fall to 
+parts under 8419.90.00. 
+Status: 
+F
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Reason: 
+Centrifuges remain in 8421 even if specialised for use in laboratories.
+These goods do not fit the terms of heading for 9027. While laboratory
+centrifuges may be used to prepare materials for testing, they: * do not
+perform a physical or chemical analysis; * do not measure or check
+viscosity, porosity, expansion, surface tension or the like; and * do not
+measure or check quantities of heat, sound or light. The World Customs
+Organisation's Harmonized System Explanatory Notes to heading 9027
+reflect this in their exclusion of centrifuges, along with various other
+apparatus of Section XVI, from classification in 9027 "whether or not, in view
+of their low output, small size and general structure, they are obviously
+intended for use in laboratories (e.g., for preparing or treating specimens)".
+As laboratory centrifuges do not fall to 9027 nor do they fall to any other
+heading of Chapter 90, Section XVI Note 1(m) does not apply and they are
+not excluded from classification in Chapter 84. Being centrifuges, they meet
+the terms of heading of 8421 and classification is to 8421.19.00. 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 85 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,20167800 
+Heading: 8421.21.90 
+Status: 
+F 
+Instrument: 
+Date: 
+27/06/2011 
+Change_Date: 
+27/06/2011 
+Description: 
+Reason: 
+Filters for filtering water.
+There have been inconsistencies in the
+8421.2
+"Filtering or purifying machinery and apparatus for liquids:" has the
+following six-digit subheadings. 
+classification of filters for liquid mixtures which
+contain water, or for solid/liquid mixtures
+where the liquid is water. These have been
+variably classified to 8421.21 or 8421.29.
+This precedent provides clarification on what
+the Department of Immigration and Border
+Protection will consider to be water in the
+8421.21
+- - For filtering or purifying water: 
+8421.22
+- - For filtering or purifying beverages other than water 
+8421.23
+- - Oil or petrol-filters for internal combustion engines 
+8421.29
+- - Other 
+context of 'For filtering or purifying water'. 
+For the purpose of these sub-headings, the type of filter is defined by the
+type of liquid to be filtered.
+Water is defined as:
+"The liquid which in a more or less impure state constitutes rain, oceans,
+lakes, rivers, etc., and which in a pure state is a transparent, odourless,
+tasteless liquid, a compound of hydrogen and oxygen, H2O, freezing at 32
+degrees F or 0 degrees C, and boiling at 212 degrees F or 100 degrees C."
+Source: Macquarie Dictionary 
+For a filter to be classified to 8421.21 it must be principally designed to filter
+a substance identifiable as 'water' (although presumably impure water).
+Filters designed to filter liquids that have lost the identity of being 'water' and
+which are mixtures of water and other substances are filters of either
+8421.22 or 8421.29, depending on whether the goods are beverages or not.
+Water is classified to 2201, 2501 or 2853.
+Naturally occurring water (i.e. rain water, ground water, surface water and
+sea water) is water. This water will generally have normally existent
+impurities, e.g. minerals, dirt, bacteria etc, but is clearly identifiable as
+water.
+Such water is classified to 2501 if sea water and to 2201 for other
+natural waters, whether or not purified. 
+Naturally occurring water to which other substances have been added may
+still retain the identity of being water. For example 'tap' water that has been
+chlorinated or fluoridated is still identifiable as water of 2201 and filters for it
+remain identifiable as filters for water.
+If however, additions are made to the water that change its identity from
+being water of one of these three headings, then filters for the new liquid are
+classified elsewhere in 8421.
+The following examples are given to clarify this loss of identity. 
+Water mixed with sugars and flavours creates a new identity, being a
+beverage of 2202 that represents a mixture of water plus other substances,
+and filters for the beverage are classifiable under 8421.22.00
+Mixed water and ore concentrate creates a new entity being a type of
+mineral slurry of Section V and filters for it are classifiable under
+8421.29.00
+Waste waters, such as industrial process waters, effluent and sewage, are
+complex mixtures of solids, chemicals, biological matter and water generally
+classifiable under 3825.
+Classification of filters for such products falls to
+8421.29.00.
+It should be noted that it is often possible to reclaim water from such
+mixtures. However, when the substance that is passing into the filter is not
+classifiable as water, then the filter is not a water filter regardless of what is
+produced. 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 86 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,20167900 
+Heading: 8421.29.00 
+Status: 
+F 
+Instrument: 
+Description: 
+Filters for liquid substances that contain
+water.
+There have been inconsistencies in the
+classification of filters for liquid mixtures which
+contain water, or for solid/liquid mixtures
+where the liquid is water. These have been
+variably classified to 8421.21 or 8421.29.
+This precedent provides clarification on the
+classification of such mixtures. 
+20501100 
+Heading: 8421.39.00
+ 
+Instrument:
+ 
+Description:
+ 
+Complete air filters for use as replacement
+filters in breathing appliances and gas masks
+of 9020 or in other apparatus of Chapter 90. 
+Status: 
+F 
+Date: 
+2/07/2012 
+Change_Date: 
+Reason: 
+A number of goods of Chapter 90 include air filters either as parts or
+accessories. 
+Chapter 90 Note 2 (a) requires parts and accessories which are included in
+headings in Chapter 84 to be classified in their respective heading in
+Chapter 84. 
+Air filters are included in 8421 and hence can not be classified in Chapter 90. 
+Air filters (other than those that are intake air filters for internal combustion
+engines) are classifiable in 8421.39.00 
+19617700 
+Heading: 8421.99.00 
+Instrument:
+Description: 
+Filter cartridges consisting of three
+components: a perforated reinforcing core, an
+inner, lower permeability area (grooved
+construction) and an outer, high permeability
+area (grooved construction). 
+Date: 
+27/06/2011 
+Change_Date: 
+Reason: 
+8421.2
+"Filtering or purifying machinery and apparatus for liquids:" has the
+following six-digit subheadings. 
+8421.21
+- - For filtering or purifying water: 
+8421.22
+- - For filtering or purifying beverages other than water 
+8421.23
+- - Oil or petrol-filters for internal combustion engines 
+8421.29
+- - Other 
+8421.29 covers filters for a wide range of substances, including water
+containing mixtures of liquids or solids and liquids. 
+Slurries, suspensions, emulsions and other water inclusive mixtures are
+generally not identifiable as water (see precedent 20167800 for guidance on
+what is identifiable as water).
+For the purpose of these sub-headings, the type of filter is defined by the
+type of liquid to be filtered.
+Filters for filtering a mixed substance consisting of water and other
+substances (other than normal water impurities) are filtering the mixture
+rather than water and are classifiable to 8421.29. If the filter recovers water
+from an aqueous mixture, this does not change the classification of the
+filter. The original mixture is the fluid being filtered, not the resulting water,
+hence the filter remains classifiable to 8421.29. 
+Status: 
+F
+Date: 
+6/11/2009 
+Change_Date: 
+6/11/2009 
+Reason: 
+These are used for filtering liquids in various applications, such as general
+industrial, food and drug, and similar batch filtration operations. The filter
+cartridges are parts that are committed by their design for being for filtering
+apparatus for liquids.
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 87 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,19618000 
+Heading: 8422.30.90 
+Status: 
+F
+Instrument:
+
+Description:
+ 
+Composite machine with components for
+rinsing, filling and corking bottles.
+ 
+19929100 
+Heading: 8423.20.00
+ 
+Instrument:
+ 
+Description:
+ 
+This precedent clarifies what goods are
+considered to be "scales for continuous
+weighing of goods on conveyors". 
+Date: 
+6/11/2009 
+Change_Date: 
+6/11/2009 
+Reason: 
+Under Section XVI Note 3, classification is to the heading that covers the
+principal function. Rinsing is seen as a preliminary function to the principal
+function of filling the bottles. Consequently, the good is classified to
+8422.30.90 Consideration was given to whether eligibility for TCO 8534268,
+being for "FILLING MACHINES, wine bottle, capable of BOTH filling and
+corking" could be given. However, a TCO, unlike the classification in this
+instance, depends not upon principal function but upon the wording of the
+TCO being a full and proper description of the whole good. This is a
+composite good and only two of the components are represented on the
+TCO. The TCO does not represent a description of the composite machine,
+only some of the components, and can not be applied.
+Status: 
+F 
+Date: 
+26/08/2010 
+Change_Date: 
+26/08/2010 
+Reason: 
+8423.20.00 covers conveyor belt weighers. Belt weighing is the process of
+determining the mass-flow rate of bulk material being transported on a belt.
+It involves the determination of the weight of material on the belt and the
+linear speed of the belt. These two variables are determined separately and
+then used together to produce flow rate or total weight.
+The weight on the
+belt is continuously monitored as it moves over the weigh length (the portion
+of the conveyor system used in weighing).
+The Dictionary of Weighing Terms (Roland Nater; et al, 2009) defines
+conveyor belt weighers as follows. 
+“A scale that determines the weight of unpacked, loose, continuously
+transported material by weighing the belt loading and measuring the belt
+speed while the material is being transported (integrated scale). Conveyor
+belt weighers can also be designed as adding scales that weigh the material
+in sections.” 
+The first sentence of the definition represents the integrating scales and the
+second sentence the totaliser scales referred to in the Harmonised System
+Explanatory Notes for this subheading.
+In addition to conveyor belt weighers, this item also covers equipment
+performing the same function for other forms of conveyors such as chain or
+bucket conveyors. 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 88 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,19929200 
+Heading: 8423.30.00 
+Status: 
+F 
+Instrument: 
+Date: 
+26/08/2010 
+Change_Date: 
+26/08/2010 
+Description: 
+Reason: 
+This precedent clarifies what goods are
+considered to be “constant weight scales and
+scales for discharging a predetermined weight
+of material into a bag or container, including
+hopper scales”. 
+This subheading covers scales that are designed to determine the
+consistency of weight of discrete goods against a target weight and for
+discharging a preset weight of material into another container.
+Check weighers are covered by this sub-heading. The Dictionary of
+Weighing Terms (Roland Nater; et al, 2009) defines checkweigher as
+follows. 
+“A balance used to check
+1. quantities that are separated by mass or volume
+2. automatically functioning balances or filling machines for the reweighing
+of prepackages.” 
+Check weighers are specifically designed to check discrete goods,
+particularly pre-packaged goods, to ensure they meet a predetermined
+constant weight and will often incorporate mechanisms that relate to the
+rejection off the line of goods that are above or below weight. Provided that
+the principal function of the composite good remains that of a constant
+weight scale, these goods remain here. 
+In addition to check weighers, scales specifically for discharging a particular
+weight of material into something else are also covered here.
+Batch weighers of all types designed to discharge a pre-determined weight
+of material into a bag or container are covered here. In this group are
+hopper scales, including scales for totalising weights from multiple hoppers.
+These remain here when combined with other equipment, for example
+weight ticket printing, provided that the essential function remains the
+weighing. 
+Weighing modules for loss-in-weight (LIW) feeders are also covered here as
+they are a form of batch weigher. LIW feeders are a form of gravimetric
+feeders where the amount of material is fed through at a constant weight per
+unit of time. LIW feeder units discharge the material with a constant weight
+per unit of time by weighing the entire feeder and material inside. As the
+material discharges, the weighing module monitors and controls the “loss-in­
+weight” of the material. The feeder controls regulate the speed of the
+feeding device based on the weigh loss to match the desired feed rate or set
+point.
+Weighing modules for liquid loss-in-weight feeders which feed in
+fluids e.g. milk, oils, water etc are also included.
+Whether any of the above batch weighers, hopper scales and LIW weighing
+modules remain classified here when combined with the hopper, feeder or
+other equipment will depend upon the actual goods.
+Where the combined
+good has the essential function of filling machinery rather than weighing
+scales, then classification will generally be to 8422.
+(Note that weighing equipment for weigh belt feeders, the other major form
+of gravimetric feeder, are covered under 8423.20.00 as conveyor belt
+weighers.) 
+All of the above goods may incorporate, or work with, conveyors. Where the
+conveyors are auxiliary components for moving goods into or out of the
+weighing equipment they remain here. Where the weighing takes place on
+the conveyor, the goods remain here in 8423.30 provided that the weighing
+machinery is either a constant weight scale or, in the case of continuous
+weighers, the function is discharging of a predetermined weight of material
+into a bag or container.
+In distinguishing between conveyor weighers and discharge weighing of
+conveyed goods, equipment which weighs the conveyor load for use in
+calculating the flow rate is a good of 8423.20.00 not 8423.30.00 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 89 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,20576200 
+Heading: 8424.81.00 
+Instrument: 
+Description: 
+Nozzles for garden hoses which have a
+mechanical device for selecting different spray
+patterns (e.g. ‘mist’, ’shower’, ’soak’, ‘jet’ etc)
+including those with simple hand rotated disks
+for pattern selection. These nozzles may also
+be referred to as “spray guns” or “spray
+wands”. 
+This precedent does not cover nozzles which
+stop the flow or adjust the flow rate by use of
+triggers, cocks or valves (including those
+which form a jet or a spray by alteration of the
+flow rate) but which do NOT have a
+mechanical device for direct selection of spray
+patterns. For these see precedent 20576100. 
+Status: 
+F 
+Date: 
+3/10/2012 
+Change_Date: 
+Reason: 
+While these nozzles are potentially classifiable in both 8424 and 8481 as
+they have provision both to control the flow of fluids and to produce a spray.
+However, the provision of a device to select different patterns of spray
+indicates that the principal function of the goods is to provide variable spray
+types. 
+Nozzles which include devices for selecting different spray patterns are
+identifiable as “mechanical appliances (whether or not hand-operated) for
+projecting, dispersing or spraying liquids” and classifiable under 8424. 
+As they are for the cultivation of plants, they are classified to 8424.81.00. 
+19583300 
+Heading: 8428.39.00
+ 
+Instrument:
+
+Description:
+ 
+Screw conveyor which enables gravity fed
+material received by a hopper to feed at a
+constant rate to belt scales.
+Status: 
+F
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Reason: 
+Identified as a conveyor of 8428. The phrase 'continuous action conveyors'
+is not limited to belt or bucket conveyors but covers a range of conveyors.
+The Harmonized System Explanatory Notes to 8428 offer guidance and
+specifically include screw conveyors as an example of goods covered.
+19583400 
+Heading: 8428.90.00 
+Instrument:
+Description: 
+Electro hydraulic marine loading arms,
+complete with couplings, being for use in the
+loading and unloading of petroleum products
+at wharf installations. The goods essentially
+comprise two loading arms which are able to
+rotate about a vertical axis. The loading arms
+provide a support for the piping, which in turn
+carries the liquid. The piping is connected by
+a series of elbows. The complete unit is
+usually operated by a hydraulic power unit,
+however a portable remote control system
+may also be added, so as to enable the goods
+to be controlled from a jetty or from an oil
+tanker's deck. The system does not include
+any pumps. 
+Status: 
+F
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Reason: 
+The goods are identified as a loading arm assembly for the transfer of
+liquids and classifiable as loading/unloading machinery.
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 90 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,20138000 
+Heading: 8428.90.00 
+Status: 
+F 
+Instrument: 
+Date: 
+23/05/2011 
+Change_Date: 
+Description: 
+Reason: 
+Electro hydraulic loading arms, complete with
+AAT case 2008/5784 established that loader arms are not a part or
+mounting frame and bucket attachment, being
+accessory of motor vehicles, namely, agricultural tractors. Loader arms are
+for use in the loading and unloading of
+a discrete lifting machine. An attachment to the loader arms is a part of the
+agricultural, industrial or construction
+lifting machine. The type of implement attached to the loader arms does not
+stockpiled, loose materials. The goods
+alter the identification of the loader arms as a lifting machine. If the loader
+essentially comprise two parallel loading arms
+arms are imported without an attachment, they have the essential character
+divided into two sections by a pivot point, a
+of the complete or finished article, that is, other lifting machinery of
+crossbeam at the front end of the arms and a
+8428.90.00. 
+mounting frame at the rear end. The pivot
+point is approximately half way up the length
+of the arms for raising and lowering the
+second section of the arms. There is a second
+pivot point at the front end of the arms to
+enable the bucket attachment to move up and
+down. The two sections of the arms have
+independent movement.
+The bucket can be of any type, provided it is
+the single attachment to the loader arms, and
+has been imported with the loader arms and
+mount. The loader arm assembly is not
+operational unless it is mounted onto a
+platform that provides hydraulic power, such
+as a tractor. 
+19657200 
+Heading: 8428.90.00 
+Status: 
+F
+Instrument:
+Date: 
+8/12/2009 
+Change_Date: 
+8/12/2009 
+Description: 
+Reason: 
+Loader lifting arms, also known as tractor
+The goods are lifting machinery of 8428.90.00. Classification as a tractor
+front-end loaders, imported without
+accessory is excluded by Note 2(e) to Section XVII.
+implements. The goods comprise two arms
+(parallel steel beams) joined at the front end
+by a crossbeam. Two hydraulic rams are
+attached to each arm of the loader. The lower
+rams enable the arms to be raised and
+lowered while the upper rams enable the
+implement attached to the end of the parallel
+arms to be rotated. The good is made for
+attachment to an agricultural tractor using a
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 91 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,19733400 
+Heading: 8432.80.00 
+Status: 
+F 
+Instrument: 
+Description: 
+Agricultural, horticultural or forestry flail
+mulchers.
+A flail mower uses banks of flails (or "knives")
+instead of blades. A flail is a short piece of
+metal that operates by beating the vegetation
+(flailing it) and breaking it off.
+ACN 91/93 classified certain flail mulchers in
+8432 and others in 8433. Given the greater
+cross-over in capabilities between flail
+mulchers of 8432 and 8433, it was identified
+that clarification was required to assist in the
+distinguishing of agricultural, horticultural or
+forestry flail mulchers for soil preparation
+(8432) from flail mulchers for the care of
+lawns, parks, sports grounds and other
+vegetative surfaces (8433). 
+See also 19733200 and 19733300. 
+19733300 
+Heading: 8433.19.00 
+Instrument: 
+Description: 
+Flail mulchers or flail mowers for lawns, parks
+or sports-grounds.
+A flail mower uses banks of flails (or "knives")
+instead of blades. A flail is a short piece of
+metal that operates by beating the grass
+(flailing it) and breaking it off.
+ACN 91/93 classified certain flail mulchers in
+8432 and others in 8433. Given the greater
+cross-over in capabilities between flail
+mulchers of 8432 and 8433, it was identified
+that clarification was required to assist in the
+distinguishing of agricultural, horticultural or
+forestry flail mulchers for soil preparation
+(8432) from flail mulchers for the care of
+lawns, parks, sports grounds and other
+vegetative surfaces (8433). 
+See also 19733200 and 19733400. 
+Date: 
+23/02/2010 
+Change_Date: 
+23/02/2010 
+Reason: 
+8432.80.00 is intended to cover only those flail mulchers designed for use
+solely or principally in agricultural, horticultural or forestry applications to
+prepare the soil. The major requirements for a mulcher of 8432 are as
+follows.
+* The focus of the design of a mulcher of 8432 is on the mulched material
+and its incorporation into the soil, not the cutting of vegetation or the
+appearance of the area post-flailing. These mulchers are often designed to
+lay a mat of mulch and will normally be capable of green manure crop kill.
+* It is capable of handling the type of materials encountered in one or more
+of these applications: that is crop stubble, green manure crops, scrub,
+woody weeds and other rough material. In forestry applications this can be
+up to saplings and branches.
+* It is of a size and power suitable for agricultural, horticultural or forestry
+being made for prolonged use in a commercial setting. These mulchers are
+intended to attached to tractors and can handle being used as full-time
+working implements.
+* Flail mulchers of 8432 will be made solely or principally for the agricultural,
+horticultural or forestry markets.
+Some flail mulchers are suitable for both mowing and mulching grass and
+for mulching the remnants of some green crops. Usually these will fall not
+here but to 8433, as the machines are adapted for the finish requirements of
+grassland work, but the characteristics of the imported good must be
+considered when classifying. 
+Status: 
+F 
+Date: 
+23/02/2010 
+Change_Date: 
+23/02/2010 
+Reason: 
+These flail mulchers or flail mowers are primarily designed to mow grass.
+The mulching of the grass back into the grassed area provides added
+benefits in soil improvement and the removal of the need to collect and
+dispose of clippings, however the primary purpose is mowing.
+The emphasis given in the design of flail mulchers of 8433 is on the
+appearance of the area after mowing ("clean finish", "even cut" etc) and the
+safety benefits of flail mowing (less likely to throw objects during cutting).
+The flails may be shaped (e.g. Y-shaped or a half-Y) to give the mowed
+grass a combed or ridged appearance and are usually available as heads
+for rough, fine and smooth cuts so that the cutting can be adapted to end
+usage for the mowing (e.g. golf course, lawn etc). 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 92 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,19733200 
+Heading: 8433.20.00 
+Status: 
+F 
+Instrument: 
+Description: 
+Flail mulchers or flail mowers for the mowing
+of surfaces other than lawns, parks or sports-
+grounds.
+A flail mower uses banks of flails (or "knives")
+instead of blades. A flail is a short piece of
+metal that operates by beating the grass
+(flailing it) and breaking it off.
+ACN 91/93 classified certain flail mulchers in
+8432 and others in 8433. Given the greater
+cross-over in capabilities between flail
+mulchers of 8432 and 8433, it was identified
+that clarification was required to assist in the
+distinguishing of agricultural, horticultural or
+forestry flail mulchers for soil preparation
+(8432) from flail mulchers for the care of
+lawns, parks, sports grounds and other
+vegetative surfaces (8433). 
+See also 19733300 and 19733400. 
+19583500 
+Heading: 8443.99.00 
+Status: 
+F
+Instrument:
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Description: 
+Reason: 
+Toner cartridges that incorporate other
+The additional components mean that the cartridge is not simply a container
+components such as wiring, main charger
+of a chemical preparation of 3707. Cartridges with additional components
+corona, transfer/separation corona, ozone
+as per above are identified as replacement parts for a laser printer of
+filter etc., for use in laser printers. 
+heading 8443. 
+19739800 
+Heading: 8466.10.00 
+Status: 
+F 
+Instrument: 
+Date: 
+1/03/2010 
+Change_Date: 
+1/03/2010 
+Description: 
+Reason: 
+Collets for holding tools such as drill bits and
+Theses are holding devices that form a collar around the tool to be held and
+cutting heads.
+which exert a strong clamping force on the object when it is tightened via a
+tapered outer collar. These are subtypes of chucks and are identified as tool
+This does not cover collets for holding a work
+holders of 8466 10 00. 
+piece - see 19739900. 
+19733500 
+Heading: 8466.10.00 
+Status: 
+F 
+Instrument: 
+Date: 
+23/02/2010 
+Change_Date: 
+23/02/2010 
+Description: 
+Reason: 
+Arbors, being tool holders suitable for use
+The arbor attaches an interchangeable tool, e.g. a drill bit, hole-saw or
+solely or principally with machines of 8456 to
+grinding disk, to a machine tool.
+8465. 
+Where the arbor is imported with the interchangeable tool, classification will
+usually be to the tool. However, imported separately, it is identified as a tool
+holder. Chapter 82 Note 2 directs classification of tool holders imported as
+parts to 8466.
+Tool holders are classified to 8466.10.00. 
+Date: 
+23/02/2010 
+Change_Date: 
+23/02/2010 
+Reason: 
+These flail mulchers or flail mowers are primarily designed to mow grass
+and other vegetation. The mulching of the grass back into the grassed area
+provides added benefits in the removal of the need to collect and dispose of
+clippings, however the primary purpose is mowing.
+The emphasis given in the design of flail mulchers of 8433 is on the
+appearance of the area after mowing ("clean finish", "even cut" etc) and the
+safety benefits of flail mowing (less likely to throw objects during cutting).
+These differ from the flail mowers/mulcher of 8433.19.00 in that they are
+designed for working over rougher surfaces such as verges, embankments,
+road-sides, construction sites etc. Like those goods they differ in that they
+are solely or principally mowing devices rather than designed for soil
+preparation. 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 93 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,19583600 
+Heading: 8466.10.00 
+Instrument:
+Description: 
+Heads for brush cutters, line trimmers and
+similar grass/scrub cutting machines. The
+heads attach to the output shaft of the
+machine and are fitted with replaceable plastic
+cutting/trimming line or replaceable plastic
+cutting blades. The line or blades ARE NOT
+FITTED to the head at the time of importation,
+i.e. the heads are imported bare. 
+Status: 
+F
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Reason: 
+Cutter and trimmer heads are identified as tool holders for machines of
+heading 8467. Whilst the heads may be regarded as parts of those
+machines, classification to 8466 is by application of Section XVI Note 2(b).
+Note: See Precedent 19583700 for classification of heads fitted with line or
+blades.
+19739900 
+Heading: 8466.20.00
+ 
+Instrument:
+ 
+Description:
+ 
+Collets for holding a work piece while it is
+being machined.
+This does not cover collets for holding tools,
+e.g. tap and drill collets, see 19739800. 
+Status: 
+F 
+Date: 
+1/03/2010 
+Change_Date: 
+1/03/2010 
+Reason: 
+The main types of work piece holding collets are those that hold the outside
+diameter and those that hold the inside. The first are a tapered or cone
+shaped sleeve which form a collar around the work piece passing through a
+hole in the centre and clamp it in place when tightened via a tapered outer
+collar.
+The second type are expanding collets which grip the internal diameter of a
+work piece by expanding the work holding surface of the collet to form a
+tight fit once in the hollow shaft or body of the piece to be held. When the
+work is finished the expansion piece of the collet is pulled back to release
+the work piece.
+These are identified as work holders of 8466 20 00. 
+19583700 
+Heading: 8467.99.90 
+Status: 
+F
+Instrument:
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Description: 
+Reason: 
+Heads, fitted with plastic cutting/trimming line
+Identified as parts of machines of heading 8467 - tools for working in the
+or plastic cutting blades, for use with brush
+hand with self-contained non-electric motor. Heads fitted with the cutting
+cutters, line trimmers and similar grass/scrub
+tool (in this case the line or blades) at the time of importation are considered
+cutting machines. The heads attach to the
+to be more than tool holders of heading 8466. Classification to heading 8467
+output shaft of the machine, and ARE
+is by application of Section XVI Note 2(b). Note: See Precedent 19583600
+FITTED with the cutting/trimming line or
+for classification of heads not fitted with line or blades.
+blades at the time of importation. 
+19583800 
+Heading: 8471.80.00 
+Status: 
+F
+Instrument:
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Description: 
+Reason: 
+Cryptographic processors being devices
+Under Chapter 84 Note 5(C), a unit is regarded as being part of an
+containing a Data Encryption Standard (DES)
+automatic data processing system if it is of a kind solely or principally used
+encryption algorithm and which are connected
+in an automatic data processing system; connectable to the central
+as a peripheral device to one or more
+processing unit either directly or through one or more other units; and able
+automatic data processing machines from
+to accept or deliver data in a form (codes or signals) which can be used by
+which it receives commands to perform pre­
+the system, provided it is not excluded by paragraphs (D) and (E) to the
+programmed operations. The function of
+Note. The subject machines do perform a specific function, but that function
+these goods is to provide the necessary data
+is a data processing function, being the authentication or encryption of data,
+security functions (e.g., authentication and
+and hence they are not excluded by paragraph (E). Separately presented
+encryption) which would otherwise have to be
+cryptographic processors for connection to automatic data processing
+performed by software loaded onto the host
+systems are classifiable as units of automatic data processing machines.
+automatic data processing machine; this
+eliminates the need for storage of certain
+security data bases in the automatic data
+processing machine(s).
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 94 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,19583900 
+Heading: 8472.90.90 
+Status: 
+F
+Instrument:
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Description: 
+Reason: 
+Automatic signature machine used to
+Identified as an office machine of 8472. This device is similar to the cheque
+reproduce personal signatures on a variety of
+signing machines of 8472 as it is a specialised device for the signing of
+documents. The machine uses a custom-
+correspondence and documents. The signing of correspondence and
+made matrix to precisely reproduce original
+documents is "office work" and the good is not suitable for general printing,
+handwriting as many times as desired. 
+it is classified to 8472 as an office machine.
+19584000 
+Heading: 8479.89.90 
+Instrument:
+Description: 
+This precedent covers portable or fixed
+cooler/warmers. The goods are usually small
+portable containers which often plug into the
+cigarette lighter of a car. They are used to
+keep food and drinks cool or warm and may
+be supplied with an optional AC power
+adapter. The goods work using the Peltier
+effect and cool or warm depending on the
+flow of current in the module.
+Status: 
+F
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Reason: 
+These goods are not considered to be refrigeration equipment of heading
+8418. Note 3 to Section 16 is not considered to be applicable. The goods
+are equally capable of both warming and cooling and neither function is
+considered to be the principal function. The goods are not specified or
+included elsewhere in Chapter 84 and classification falls to heading 8479. 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 95 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,20910000 
+Heading: 8479.89.90 
+Status: 
+F 
+Instrument: 
+Description: 
+Propelling bases being skid steers, on wheels
+or tracked, with an engine. Imported without
+tools but having a universal attachment
+system that allows the skid steer to be used
+as various machines post importation: for
+example as a trencher; tiller; snow blower;
+rotary broom; leveller; breaker; tilt blade;
+grapple fork; bucket; auger bit; adjustable
+pallet fork, slasher; wood chipper; log grab; or
+for any other function covered by an
+attachment. 
+19740000 
+Heading: 8479.89.90 
+Instrument: 
+Description: 
+Industrial samplers designed for the sampling
+of free flowing materials from microscopic
+powders to large granules and liquids and
+operating as follows. A slotted sampling tube
+is extended into the product stream and
+collects a cross-section of the product stream.
+The tube retracts and the sample is delivered
+to a collection container. The sampler may be
+triggered automatically (e.g. by count or time)
+or manually. 
+Date: 
+19/02/2014 
+Change_Date: 
+19/02/2014 
+Reason: 
+Skid steers, without tools and not adapted to a particular purpose, are
+identified as goods of heading 8479.
+The subject goods do not have the 'essential character' of complete
+machines of headings 8425, 8426, 8428, 8430, 8432 or 8433. They are
+complete propelling bases which, in use, can be given the character of a
+particular machine by the addition of any of the suitable attachments. They
+are not a part of any of the machines of these headings. 
+The goods are not classifiable to heading 8709 as they do not meet the
+terms of the heading. They are not 'of the type used in factories,
+warehouses, dock areas or airports for short distance transport of goods'. 
+The goods are not tractors of Chapter 87. Note 2 to Chapter 87 states that
+‘tractors’ means vehicles constructed essentially for hauling or pushing
+another vehicle, appliance or load. See Blackwood Hodge (Australia) Pty Ltd
+v the Collector of Customs , New South Wales [1980] FCA 96; (1980) 47
+FLR 131 (22 August 1980) No G4 of 1980 for a full examination of the
+meaning of ‘tractors’. 
+The tools that the importer intends to use with the skid steer are not a
+consideration. The Federal Court decision in Blackwood Hodge (Australia)
+Pty Ltd stated in relevant part that: 'it is the state or condition of the goods at
+the time of importation that is the determining factor. The test is an objective
+one. The purpose of the manufacturer or exporter on the one hand or the
+importer or the user on the other hand can have no relevance. Otherwise
+rates of duty for identical articles would vary depending on what their
+proposed use was to be. It is the intrinsic nature of the article itself which
+has to be considered.'
+As imported, without tools, these propelling bases have multiple uses.
+These uses are all equal in that each is a standard use and the machine is
+designed for all uses to which it may be put by the addition of an appropriate
+skid steer attachment. The second part of Chapter 84, Note 7 states 'a
+machine the principal purpose of which is not described in any heading or
+for which no one purpose is the principal purpose is, unless the context
+otherwise requires, to be classified in 8479.' 
+The goods are classified to 8479.89.90 by application of IR 1 and 6 and
+Chapter 84, Note 7. 
+This classification opinion does not apply to bases designed specifically for
+a particular use, or imported as incomplete machines, covered by one of the
+headings in the Tariff such as forklifts, cranes, graders etc. 
+Status: 
+F 
+Date: 
+1/03/2010 
+Change_Date: 
+1/03/2010 
+Reason: 
+These goods can be used on a wide variety of products and are not industry
+specific. They do not perform any analysis or testing of the sample, but
+simply extract a sample from the bulk product.
+The goods are not specified or included elsewhere and classification falls to
+heading 8479. 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 96 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,19740100 
+Heading: 8481.40.00 
+Status: 
+F 
+Instrument:
+ 
+Description:
+ 
+Safety valves for pipes, boiler shells, tanks,
+vats or the like.
+ 
+19740200 
+Heading: 8481.80.90 
+Instrument: 
+Description: 
+Single lever mixer taps for kitchens,
+bathrooms, laundries and the like. These have
+a mixing valve to which both the hot and cold
+water supplies are connected, a single outlet
+for the water and a lever to select water flow
+and temperature. The water is mixed prior to
+reaching the outlet to give water at the point
+between cold and hot selected by use of the
+lever.
+They may include a pressure balancing
+mechanism to prevent changes in water load
+unbalancing the mix of hot and cold water.
+The mixing valve may include a thermostat. 
+Status: 
+F 
+Date: 
+1/03/2010 
+Change_Date: 
+1/03/2010 
+Reason: 
+The inclusion of a thermostat does not remove the combined apparatus
+from 8481 as the combined article retains the identity of a mixing valve.
+Classification falls to 8481.80.90 
+20576100 
+Heading: 8481.80.90 
+Instrument: 
+Description: 
+Nozzles for garden hoses which stop the flow
+or adjust the flow rate by use of triggers,
+cocks or valves (including those which form a
+jet or a spray by alteration of the flow rate) but
+which do NOT have a mechanical device for
+direct selection of spray patterns. 
+These nozzles include barrel nozzles or other
+twist nozzles and simple trigger nozzles. 
+For those with mechanical devices for direct
+selection of spray patterns see precedent
+20576200 
+Date: 
+1/03/2010 
+Change_Date: 
+1/03/2010 
+Reason: 
+While a wide number of valves may have a role in the safe operation of
+equipment, the following definition defines what is accepted as a safety
+valve for the purpose of 8481.40:
+"a valve which automatically, without the assistance of any energy other
+than the fluid consumed, discharges a certified quantity of the fluid so as to
+prevent a predetermined safe pressure from being exceeded. It is designed
+to re-close and prevent the further flow of fluid after normal pressure
+conditions of service have been restored."
+The requirements for a valve to be classified to 8481.40 can be broken
+down as follow:
+- the only purpose of the valve is prevent a predetermined safe pressure
+from being exceeded;
+- it operates automatically when the internal pressure exceeds the set
+pressure of the safety valve with no external or extra energy is required for
+the valve to operate apart from that of the fluid discharged;
+- the amount of fluid (liquid or gas) discharged is in accordance with its
+certification;
+- once pressure has reduced to safe levels, the valve automatically closes
+(reseats) and seals against further fluid discharge; and
+- it remains operational after use, another unsafe increase in pressure will
+reopen the valve. 
+Status: 
+F 
+Date: 
+3/10/2012 
+Change_Date: 
+Reason: 
+The control of the flow rate does naturally vary the resulting stream from a
+spray to a jet. However the principal function of these devices is to control
+the flow of water. 
+Classification is to 8481.80.90. 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 97 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,21227600 
+Heading: 8482.10.10 
+Status: 
+F 
+Instrument: 
+Date: 
+17/02/2015 
+Change_Date: 
+Description: 
+Reason: 
+The goods, which are the subject of this
+Classification of wheel ball bearings for passenger motor vehicles falls to
+precedent, are bearings for wheels of
+subheading 8482.10.10 by Interpretative Rules (IR) 1 and 6. 
+passenger motor vehicles. The bearings of
+this subheading are ball bearings. The
+The goods are ball bearings of heading 8482. They are also parts for motor
+bearings consist of two concentric rings, or
+vehicles of heading 8708. However, articles of 8482 are excluded from
+races, enclosing the balls, and a cage which
+Section XVII by Note 2(e). 
+keeps them in place and ensures that their
+spacing remains constant. Usually these
+The relevant segment of Section XVII Note 2 states: 
+bearings have a double row of balls.
+"Parts” and “parts and accessories” do not apply to the following articles,
+These bearings are not common in modern
+whether or not they are identifiable goods of this Section: 
+cars, having been replaced by sealed wheel
+(e) Machines or apparatus of 8401 to 8479, or parts thereof; articles of 8481
+hub units –for classification of these goods
+or 8482 or, provided they constitute integral parts of engines or motors,
+see Precedent 21227700. Taper roller
+articles of 8483. 
+bearings etc. are classified elsewhere in
+heading 8482. 
+Therefore bearings of heading 8482 are not classified as parts of vehicles.
+Classification falls to heading 8482 and subheading 8482.10.10. 
+19584100 
+Heading: 8483.50.90 
+Status: 
+F
+Instrument:
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Description: 
+Reason: 
+Stringing sheaves for power lines. 
+Stringing sheaves are pulleys for the stringing of power lines prior to final
+connection. Classification is to pulleys.
+19584200 
+Heading: 8487.10.00
+ 
+Instrument:
+
+Description:
+ 
+Propellers and propeller blades for "outboard
+motors". 
+Status: 
+F
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Reason: 
+Covered by the terms of 8487.10.00 as "Ships' or boats' propellers and
+blades therefor". While the engines of 8407 includes outboard motors "for
+the propulsion of small boats, consisting of a motor of this heading, a
+propeller and a steering device, the whole constituting a single, indivisible
+unit", the engine (motor) provides the essential character of those
+composite units and the remainder, viz. propeller and steering device, is
+subsumed in the identity of the outboard motor as a whole. Separately
+imported propellers for outboard motors are not, however, classified to 8409
+as "parts". Heading 8409 only covers parts for the engine itself e.g.
+pistons, cylinders and cylinder blocks, cylinder heads etc. An engine is
+complete without a propeller and a propeller or propeller blade is not a part
+of the engine. Propellers and propellor blades, including those intended to
+be incorporated into outboard motors after importation, are classified to the
+residual heading 8487.
+End of Chapter 84 
+Number of records for Chapter: 
+50 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 98 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,Chapter 85 Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television
+image and sound recorders and reproducers, and parts and accessories of such articles 
+20863700 
+Heading: 8502.31.10 
+Instrument: 
+Description: 
+This precedent, and related precedents,
+concern wind powered generators (often
+called wind turbines or wind power plants,
+wind driven generators or wind-turbine
+powered generators). Note that the term
+‘turbine’ is used in the Tariff for machines of
+headings 8410 and 8411. Wind powered
+generators are not ‘turbines’ of this type and
+therefore the common term ‘wind turbine’ is
+not used in this precedent to avoid confusion. 
+Wind powered generators generate electricity
+by converting the kinetic energy of the wind
+into mechanical energy by the action of the
+wind turning the blades of a rotor or wind
+engine, which in turn spins a generator to
+create electricity. Wind powered generators in
+wind farms directly transmit electricity to the
+power grid. Some wind powered generators
+are used to charge batteries or are connected
+to off grid establishments. 
+Wind powered generators consist of a number
+of machines and electrical equipment
+mounted in and/or on a structure. The basic
+components are a rotor or wind engine and a
+generator. The wind engine is the hub and
+rotor blades. The rotational energy is
+transmitted to the generator housed in the
+nacelle. The hub may also contain other
+equipment such as the pitch controls. 
+The combined wind engine and generator with
+associated equipment is usually mounted on a
+tall metal pylon or tower. However, small wind
+powered generators may be mounted on other
+structures such as buildings or on vehicles
+such as boats.
+Other equipment may also be included in the
+nacelle housing or in the tower; such as a
+gearbox, electronic control unit, yaw controller
+(moves the rotor to align with the direction of
+the wind), brakes (stops rotation of the shaft in
+case of power overload or system failure),
+inverters and/or converters and transformers. 
+Status: 
+F 
+Date: 
+28/11/2013 
+Change_Date: 
+Reason: 
+An assembled complete wind powered generator is a composite machine
+consisting of two or more machines fitted together to form a whole; wind
+engine, generator, gearbox, yaw controls etc. fitted in a steel tower and
+nacelle. Classification is to subheading 8502.31: wind powered electric
+generating sets by Interpretative Rules (IRs) 1, 6 and Section XVI Note 3.
+The generating set (wind engine and generator) performs the principal
+function, which is generating electricity.
+ 
+A wind engine, or rotor, imported together with a generator is identified and
+classified as an electric generating set of Heading 8502 as the rotor forms
+the main driver (being a wind engine or motor) to the generator. The
+Harmonised System Explanatory Notes confirms this, stating in the notes to
+8502 that “generating sets” applies to the combination of an electric
+generator and any prime mover other than an electric motor (e.g. ..wind
+engines..)” and, in the notes to 8412, excluding “electric generator units
+composed of wind motors mounted integrally with an electric generator
+(heading 8502).”
+ 
+A disassembled but complete wind powered generator is classified to
+subheading 8502.31 by IR 1, 6 and Section XVI Note 4 as a functional unit
+composed of components contributing together to the function of generating
+electricity. Section XVI Note 3 does not apply as IR 2(a) expands a heading
+to include unassembled articles. It does not expand Notes.
+ 
+Under IR 6, Section Notes 3 or 4, which state respectively “to be classified
+as if consisting of that component or as being that machine which performs
+the principal function” and “contribute together to a clearly defined function
+covered by one of the headings of Chapter 84 or 85, the whole falls to be
+classified in the heading appropriate to that function”, applies to the
+subheadings.
+ 
+Note that classification to the 8 digit subheadings will depend on the output
+of the generating set, NOT the output of the wind powered generator as a
+whole. The wind powered generator may contain transformers or inverters
+and/or converters.
+
+The 8 digit subheading will therefore be either 8502.31.10 or 8502.31.90
+according to the output of the generating set by IR 6 and Section XVI Note 3
+or 4.
+ 
+8502.31.10 - - AC generating sets of an output exceeding 500 kVA.
+8502.31.90 - - Other
+ 
+The IDM regarding the generating set output, with appropriate conversion to
+kVA, must be made available to the Department of Immigration and Border
+Protection on demand.
+ 
+Similarly, an importation of all the components for a wind turbine generator,
+assembled or disassembled, but minus the tower, will also be classified
+8502.31 by IR 1, 6 and Section XVI Note 4.
+ 
+Components imported separately:
+ 
+As wind turbine generators are composite machines or functional units,
+components imported separately must be assessed on their individual
+merits. Individual components will be classified to appropriate headings
+according to the state in which they are imported. Many components will be
+classifiable to various headings in the Tariff.
+ 
+Parts for the components, such as the wind engine or generator, will be
+classified as parts of the relevant component having regard to Section XVI
+Notes 1 and 2.
+ 
+See precedents 20780600 and 20780700.
+ 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 99 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,20863800 
+Heading: 8502.31.90 
+Instrument: 
+Description: 
+This precedent, and related precedents,
+concern wind powered generators (often
+called wind turbines or wind power plants,
+wind driven generators or wind-turbine
+powered generators). Note that the term
+‘turbine’ is used in the Tariff for machines of
+headings 8410 and 8411. Wind powered
+generators are not ‘turbines’ of this type and
+therefore the common term ‘wind turbine’ is
+not used in this precedent to avoid confusion. 
+Wind powered generators generate electricity
+by converting the kinetic energy of the wind
+into mechanical energy by the action of the
+wind turning the blades of a rotor or wind
+engine, which in turn spins a generator to
+create electricity. Wind powered generators in
+wind farms directly transmit electricity to the
+power grid. Some wind powered generators
+are used to charge batteries or are connected
+to off grid establishments. 
+Wind powered generators consist of a number
+of machines and electrical equipment
+mounted in and/or on a structure. The basic
+components are a rotor or wind engine and a
+generator. The wind engine is the hub and
+rotor blades. The rotational energy is
+transmitted to the generator housed in the
+nacelle. The hub may also contain other
+equipment such as the pitch controls. 
+The combined wind engine and generator with
+associated equipment is usually mounted on a
+tall metal pylon or tower. However, small wind
+powered generators may be mounted on other
+structures such as buildings or on vehicles
+such as boats.
+Other equipment may also be included in the
+nacelle housing or in the tower; such as a
+gearbox, electronic control unit, yaw controller
+(moves the rotor to align with the direction of
+the wind), brakes (stops rotation of the shaft in
+case of power overload or system failure),
+inverters and/or converters and transformers. 
+Status: 
+F 
+Date: 
+28/11/2013 
+Change_Date: 
+Reason: 
+An assembled complete wind powered generator is a composite machine
+consisting of two or more machines fitted together to form a whole; wind
+engine, generator, gearbox, yaw controls etc. fitted in a steel tower and
+nacelle. Classification is to subheading 8502.31: wind powered electric
+generating sets by Interpretative Rules (IRs) 1, 6 and Section XVI Note 3.
+The generating set (wind engine and generator) performs the principal
+function, which is generating electricity.
+ 
+A wind engine, or rotor, imported together with a generator is identified and
+classified as an electric generating set of Heading 8502 as the rotor forms
+the main driver (being a wind engine or motor) to the generator. The
+Harmonised System Explanatory Notes confirms this, stating in the notes to
+8502 that “generating sets” applies to the combination of an electric
+generator and any prime mover other than an electric motor (e.g,. ..wind
+engines..)” and, in the notes to 8412, excluding “electric generator units
+composed of wind motors mounted integrally with an electric generator
+(heading 8502).”
+ 
+A disassembled but complete wind powered generator is classified to
+subheading 8502.31 by IR 1, 6 and Section XVI Note 4 as a functional unit
+composed of components contributing together to the function of generating
+electricity. Section XVI Note 3 does not apply as IR 2(a) expands a heading
+to include unassembled articles. It does not expand Notes.
+ 
+Under IR 6, Section Notes 3 or 4, which state respectively “to be classified
+as if consisting of that component or as being that machine which performs
+the principal function” and “contribute together to a clearly defined function
+covered by one of the headings of Chapter 84 or 85, the whole falls to be
+classified in the heading appropriate to that function”, applies to the
+subheadings.
+ 
+Note that classification to the 8 digit subheadings will depend on the output
+of the generating set, NOT the output of the wind powered generator as a
+whole. The wind powered generator may contain transformers or inverters
+and/or converters.
+
+The 8 digit subheading will therefore be either 8502.31.10 or 8502.31.90
+according to the output of the generating set by IR 6 and Section XVI Note 3
+or 4.
+ 
+8502.31.10 - - AC generating sets of an output exceeding 500 kVA.
+8502.31.90 - - Other
+ 
+The IDM regarding the generating set output, with appropriate conversion to
+kVA, must be made available to the Department of Immigration and Border
+Protection on demand.
+ 
+Similarly, an importation of all the components for a wind turbine generator,
+assembled or disassembled, but minus the tower, will also be classified
+8502.31 by IR 1, 6 and Section XVI Note 4.
+ 
+Components imported separately:
+ 
+As wind turbine generators are composite machines or functional units,
+components imported separately must be assessed on their individual
+merits. Individual components will be classified to appropriate headings
+according to the state in which they are imported. Many components will be
+classifiable to various headings in the Tariff.
+ 
+Parts for the components, such as the wind engine or generator, will be
+classified as parts of the relevant component having regard to Section XVI
+Notes 1 and 2.
+ 
+See precedents 20780600 and 20780700.
+ 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 100 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,19675000 
+Heading: 8516.60.00 
+Instrument:
+Description: 
+Along with 19675100 and 19675200, this set
+of three opinions is issued to clarify the
+coverage of tariff items 8516.60.00 - "Other
+ovens; cookers, cooking plates, boiling rings,
+grillers and roasters" , 8516.72.00 - "Toasters"
+and 8516.79.00 - "Other" in regard to
+domestic, electric cooking appliances. 
+Status: 
+F
+Date: 
+30/12/2009 
+Change_Date: 
+30/12/2009 
+Reason: 
+This tariff item covers the following: Domestic electric ovens, other than
+microwave ovens, being goods that apply a dry heat to an enclosed space
+in order to cook food. This includes both standard ovens and speciality
+ovens that cook in the same manner but are specifically sized and/or
+shaped to cook a particular food, e.g. muffin ovens or bread makers,
+provided that they are of a kind used for domestic purposes. Electric
+cooking plates and cooking rings of kind used for domestic purposes, being
+plates or rings that include heating elements and which passively transmit
+that heat to any cooking container or food placed on them. Domestic electric
+grillers and roasters being goods that emit direct radiant heat to cook food.
+19675100 
+Heading: 8516.72.00 
+Status: 
+F
+Instrument:
+Date: 
+30/12/2009 
+Change_Date: 
+30/12/2009 
+Description: 
+Reason: 
+Along with 19675000 and 19675200, this set
+This tariff items covers toasters, being goods that apply heat to warm or
+of three opinions is issued to clarify the
+brown food, but which are not intended to cook. It also covers toaster
+coverage of tariff items 8516.60.00 - "Other
+ovens, which can also cook, provided they are identifiable as being
+ovens; cookers, cooking plates, boiling rings,
+principally goods for warming or browning food with the cooking function
+grillers and roasters" , 8516.72.00 - "Toasters"
+being subsidiary. 
+and 8516.79.00 - "Other" in regard to
+domestic, electric cooking appliances. 
+19675200 
+Heading: 8516.79.00 
+Status: 
+F
+Instrument:
+Date: 
+30/12/2009 
+Change_Date: 
+30/12/2009 
+Description: 
+Reason: 
+Along with 19675000 and 19675100, this set
+This tariff item covers, among other things, domestic electrical devices for
+of three opinions is issued to clarify the
+heating fluids, whether that is the direct intent, e.g. kettles, jugs and hot
+coverage of tariff items 8516.60.00 - "Other
+water urns, or whether the fluid is heated in order to cook food, e.g. deep
+ovens; cookers, cooking plates, boiling rings,
+fryers or steamers.
+grillers and roasters" , 8516.72.00 - "Toasters"
+and 8516.79.00 - "Other" in regard to
+domestic, electric cooking appliances. 
+19725800 
+Heading: 8517.12.00 
+Status: 
+F 
+Instrument: 
+Date: 
+16/02/2010 
+Change_Date: 
+16/02/2010 
+Description: 
+Reason: 
+Mobile telephones also equipped with the
+Where a device functions as a mobile telephone and performs other
+functionality of other devices, for example
+functions covered by headings other than 8517 in Section XVI, classification
+digital cameras, Global Positioning System
+is determined by Note 3 to Section XVI.
+(GPS) apparatus, radio reception or video
+reproduction. In use, the goods subject to this
+If the apparatus is designed to be equipped with a SIM (Subscriber Identity
+classification will override any other function
+Module) the mobile telephony function takes precedence over all the other
+being used on the device to accept an
+functions of the apparatus (in particular, the incoming calls override all other
+incoming call. 
+functions used), the principal function of the apparatus within the meaning of
+Note 3 to Section XVI is considered to be that of mobile phone
+communication over a cellular network.
+The apparatus is therefore to be classified under subheading 8517 12 00 as
+a telephone for cellular networks according to the component that performs
+the apparatus' principal function. 
+19584300 
+Heading: 8519.20.10 
+Status: 
+F
+Instrument:
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Description: 
+Reason: 
+Juke box, being a coin operated machine that
+The juke box does not dispense a product so it is not an automatic goods-
+automatically plays gramophone records.
+vending machine of 8476. It is identified as a coin operated record player
+specifically included in the terms of 8519.20.10 being "Apparatus operated
+by coins, banknotes, bank cards, tokens or by other means of payment: - - ­
+Coin or disc operated record-players". 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 101 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,19584400 
+Heading: 8519.20.90 
+Status: 
+F
+Instrument:
+Description: 
+Juke box, being a coin operated machine that
+automatically plays audio recordings made in
+any form other than gramophone records. 
+21858300 
+Heading: 8525.80.10 
+Instrument: 
+Description: 
+This precedent provides clarification regarding
+the classification of Unmanned Aerial Vehicles
+(UAV), sometimes referred to as drones,
+designed and equipped for the purpose of still
+or video aerial photography. 
+This precedent covers UAVs that achieve
+flight through the use of rotors, usually 4
+(quadcopter), 6 (hexacopter) or 8 (octocopter)
+rotors; 4 rotors being the most common.
+These UAVs usually come packaged with a
+remote control, batteries and a battery
+charger. A headset, or viewing goggles, may
+also be included. A smartphone app can
+sometimes be used for viewing.
+For the purpose of this precedent, the UAV
+must be supplied with a camera capable of
+taking high quality still or video aerial
+photography, whether or not inbuilt. This
+precedent does not cover UAVs with inbuilt
+low quality video capability used primarily for
+navigation when the UAV is out of visual
+range. 
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Reason: 
+The juke box does not dispense a product so it is not an automatic goods-
+vending machine of 8476. It is identified as a coin operated sound
+reproducing apparatus and specifically included in the terms of 8519.20.90
+being "Apparatus operated by coins, banknotes, bank cards, tokens or by
+other means of payment: - - - Other". 
+Status: 
+F 
+Date: 
+31/05/2017 
+Change_Date: 
+Reason: 
+The World Customs Organisation (WCO) has clarified the internationally
+accepted classification of classified UAVs with cameras for still or video
+photography to subheading 8525.80 in the Compendium of Classification
+Opinions (COCO) - 852580/3. 
+The WCO’s Harmonized System Committee decided that there are two
+potential classifications of UAVs supplied with a camera capable of taking
+high quality still or video aerial photography; 8802 for the drone itself and
+8525 for the camera. Neither of these classifications covers the entirety of
+the good under Interpretative Rule (IR) 1. Under IR 3(a), if each of the
+potential headings covers only part of the goods, none of them is considered
+to provide a more specific description. The essential character of the good
+is supplied by the camera, the purpose of the machine as a whole being to
+enable high resolution still or video aerial photography. Classification under
+IR 1, 3(b) and 6 is to subheading 8525.80.10.
+It should be noted that rotor powered UAVs supplied without still or video
+camera functions, or in cases where the quality of video output is suitable
+only for navigation purposes, are classified to 8802.11.00, see precedent
+21858400. 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 102 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,20277900 
+Heading: 8526.92.00 
+Status: 
+F 
+Instrument: 
+Description: 
+Radio remote control devices for toys or video
+games, including those devices referred to as
+game controllers, imported without the
+associated toy or video console. Bluetooth
+remote controls are included in this
+description as Bluetooth devices use radio
+frequencies. 
+This precedent does not cover radio remote
+controls imported with the associated toy or
+console as a set. Such sets will normally be
+classifiable to the toy or console. 
+19584500 
+Heading: 8528.41.00 
+Instrument:
+Description: 
+**This Precedent provides guidance on
+classification for import declarations made
+before 1 January 2017 only. Changes to
+Schedule 3 of the Customs Tariff Act 1995,
+taking effect on 1 January 2017, revoked this
+subheading and created a new subheading
+8528.42.00 “Cathode-ray tube monitors - -
+Capable of directly connecting to and
+designed for use with an automatic data
+processing machine of 8471”. Note that there
+was also a change to the subheading for other
+types of monitors for computer systems. ** 
+Partially complete monitor for a computer
+system, comprising a cathode ray tube, the
+electronics and the chassis. The only missing
+component is the outside shell (cover). 
+Date: 
+19/10/2011 
+Change_Date: 
+19/10/2011 
+Reason: 
+Radio remote control apparatus for toys or video games are prima facie
+classifiable to two headings, as radio remote controls of 8526 and in the
+heading for the parent good of Chapter 95.
+Note 1(m) to Chapter 95 excludes radio remote control devices from
+Chapter 95.
+Australian authority (Liebert Corporation Australia Pty Ltd v Collector of
+Customs (1993) 23 AAR 287) requires that where goods are excluded from
+an area of the Tariff by Note, then any determination that they fall into that
+exclusion is a final classification determination in regard to the two potential
+headings.
+In this case, this means that if the imported goods can be correctly
+described as radio remote control apparatus, they can not be classified to
+Chapter 95. This holds even if the goods also fall within the terms of a
+heading in Chapter 95 or if classification in Chapter 95 appears more
+appropriate. 
+Although Note 3 to Chapter 95 may also appear to direct the classification of
+these goods, it is subject to Note 1 to Chapter 95. Note 3 can not work to
+include goods in Chapter 95 that are excluded by the operation of Note 1. 
+Radio remote control apparatus are devices that control another device or
+system by means of radio signals from a point at a distance from the device
+or system. Devices that control toys, e.g. radio remote controls for cars,
+planes etc, or radio remote controllers for video game consoles by radio
+frequencies are correctly described as radio remote control apparatus.
+Hence they fall within the exclusion provided in Note 1(m).
+Classification of radio remote controllers for toys or video games is to
+8526.92.00. 
+Status: 
+F
+Date: 
+12/10/2009 
+Change_Date: 
+1/02/2017 
+Reason: 
+**This Precedent provides guidance on classification for import declarations
+made before 1 January 2017 only. Changes to Schedule 3 of the Customs
+Tariff Act 1995, taking effect on 1 January 2017, revoked this subheading
+and created a new subheading 8528.42.00 “Cathode-ray tube monitors - -
+Capable of directly connecting to and designed for use with an automatic
+data processing machine of 8471”. Note that there was also a change to
+the subheading for other types of monitors for computer systems. ** 
+The goods are identified as an essentially complete cathode ray tube
+monitor for a computer (automatic data processing) system. The goods are
+classified as a complete monitor by virtue of IR 2(a). 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 103 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,21758700 
+Heading: 8528.42.00 
+Instrument: 
+Description: 
+The goods, which are the subject of this
+precedent, are partially complete monitors for
+a computer system (referred to as an
+automatic data processing machine in the
+Tariff), comprising a cathode ray tube, the
+electronics and the chassis. The only missing
+component is the outside shell (cover).
+Note that this precedent also provides
+guidance for the classification of complete
+monitors and other types of monitors used
+with computer systems. 
+Status: 
+F 
+Date: 
+1/02/2017 
+Change_Date: 
+Reason: 
+The goods are identified as an essentially complete cathode-ray tube
+monitor for a computer (automatic data processing) system. The goods are
+classified as a complete monitor by virtue of Interpretative Rule 2(a).
+Chapter 84 Note 5(D) excludes monitors from classification in heading
+8471.
+Note 5 
+(D) Heading 84.71 does not cover the following when presented separately,
+even if they meet all of the conditions set forth in Note 5 (C) above:
+(i) Printers, copying machines, facsimile machines, whether or not
+combined;
+(ii) Apparatus for the transmission or reception of voice, images or other
+data, including apparatus for communication in a wired or wireless network
+(such as a local or wide area network);
+(iii) Loudspeakers and microphones;
+(iv) Television cameras, digital cameras and video camera recorders;
+(v) Monitors and projectors, not incorporating television reception
+apparatus.
+The terms of heading 8528 includes monitors, therefore the goods are
+specifically covered by subheading 8528.42.00 "Cathode-ray tube monitors
+.. Capable of directly connecting to and designed for use with an automatic
+data processing machine of 8471". See precedent 19584500 for
+classification prior to 1 January 2017. 
+Note that subheading 8528.52.00 covers other monitors capable of directly
+connecting to and designed for use with an automatic data processing
+machine of 8471. 
+19735800 
+Heading: 8528.61.00 
+Instrument: 
+Description: 
+**This Precedent provides guidance on
+classification for import declarations made
+before 1 January 2017 only. Changes to
+Schedule 3 of the Customs Tariff Act 1995,
+taking effect on 1 January 2017, revoked this
+subheading and created a new subheading
+8528.62.00 “Projectors - - Capable of directly
+connecting to and designed for use with an
+automatic data processing machine of 8471”.** 
+LCD projectors designed to be connected to a
+computer (automatic data processing
+machine) of 8471 and used to project the
+image generated by the computer on to a wall
+or large screen. The goods may include
+speakers, but do not incorporate television
+reception apparatus. 
+Status: 
+F 
+Date: 
+24/02/2010 
+Change_Date: 
+1/02/2017 
+Reason: 
+**This Precedent provides guidance on classification for import declarations
+made before 1 January 2017 only. Changes to Schedule 3 of the Customs
+Tariff Act 1995, taking effect on 1 January 2017, revoked this subheading
+and created a new subheading 8528.62.00 “Projectors - - Capable of
+directly connecting to and designed for use with an automatic data
+processing machine of 8471”.** 
+Excluded from 8471 by Chapter 84 Note 5(D), the goods are specifically
+covered by 8528.61.00
+This is in accordance with the World Customs Organization Classification
+Opinion 8852861/1 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 104 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,21758600 
+Heading: 8528.62.00 
+Status: 
+F 
+Instrument: 
+Description: 
+The goods, which are the subject of this
+precedent, are LCD projectors designed to be
+connected to a computer (referred to as an
+automatic data processing machine in the
+Tariff) of heading 8471. These projectors are
+used to project the image generated by the
+computer onto a wall or large screen. The
+goods may include speakers, but do not
+incorporate television reception apparatus. 
+19703900 
+Heading: 8531.80.00 
+Instrument: 
+Description: 
+Sleep warning device: being a battery
+operated device worn on the person which
+detects 'nodding' movements of the head
+associated with falling asleep and provides an
+audible alarm to alert the person. Intended to
+be used when driving a car or in other
+situations where falling asleep poses a hazard. 
+Status: 
+F 
+Date: 
+1/02/2010 
+Change_Date: 
+1/02/2010 
+Reason: 
+Heading 8531 is the appropriate classification for apparatus designed to
+detect a relevant factor in the vicinity (in this case the 'nodding' movement)
+and then to warn the relevant user by means of a signal activated as a result
+of such detection. The scope of the heading in this regard was examined in
+Re Hatadi Electronics Pty Ltd and Collector of Customs [1989] AATA 183
+(28 July 1989). 
+19584600 
+Heading: 8531.80.00 
+Instrument:
+Description: 
+Electronic stud sensor (or detector), being a
+portable hand-held unit used to electronically
+locate studs in walls and ceilings. It senses
+changes in the density of the surface,
+indicating the exact location of studs, through
+a light emitting diode and a buzzer.
+Date: 
+1/02/2017 
+Change_Date: 
+Reason: 
+Chapter 84 Note 5(D) excludes projectors from classification in heading
+8471.
+Note 5 
+(D) Heading 8471 does not cover the following when presented separately,
+even if they meet all of the conditions set forth in Note 5 © above:
+(i) Printers, copying machines, facsimile machines, whether or not
+combined;
+(ii) Apparatus for the transmission or reception of voice, images or other
+data, including apparatus for communication in a wired or wireless network
+(such as a local or wide area network);
+(iii) Loudspeakers and microphones;
+(iv) Television cameras, digital cameras and video camera recorders;
+(v) Monitors and projectors, not incorporating television reception apparatus.
+The terms of heading 8528 includes projectors, therefore the goods are
+specifically covered by subheading 8528.62.00 “Projectors - - Capable of
+directly connecting to and designed for use with an automatic data
+processing machine of 8471”. See precedent 19735800 for classification
+prior to 1 January 2017. 
+The WCO decision in COCO 8528.61/1 supports classification to heading
+8528. 
+Status: 
+F
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Reason: 
+The stud sensor does not measure nor does it inspect or ascertain the
+condition of the wall or stud. It simply checks whether a stud is where it is
+pointed and warns the operator. Heading 8531 is the appropriate
+classification for apparatus designed to detect a relevant factor in the vicinity
+and then to warn the relevant observer by means of a signal activated as a
+result of such detection. The scope of the heading in this regard was
+examined in Re Hatadi Electronics Pty Ltd and Collector of Customs 1989
+AATA 183 (28 July 1989).
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 105 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,19584700 
+Heading: 8533.29.00 
+Status: 
+F
+Instrument:
+Description: 
+Polymeric Positive Temperature Coefficient
+(PTC or PPTC) Thermistor Circuit Protectors -
+commonly known as resettable fuses. 
+19584800 
+Heading: 8535.21.00 
+Instrument:
+Description: 
+Vacuum interrupter tube consisting of two
+separate contacts and other components
+within an evacuated and hermetically sealed
+ceramic envelope, also known as the "vacuum
+interrupter". The contacts are closed under
+normal circuit conditions. In the event of a
+fault current the movable contact withdraws
+from the fixed contact. Arcing is established
+within the vacuum interrupter by withdrawing
+the movable contact away from the fixed
+contact. This arc burns in the metal vapour
+evaporated on local hot spots on the contact
+surfaces. At current zero (the half cycle point
+where the AC is reversing direction) the
+vapour production ceases, the near original
+vacuum condition rapidly returning, and the
+dielectric strength of the interrupter increases
+faster than the recovery voltage, therefore the
+circuit is interrupted. These devices are
+generally used in high voltage applications,
+usually up to 40.5 kV.
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Reason: 
+Polymeric positive temperature coefficient devices are usually referred to as
+resettable fuses, but are actually non-linear thermistors of 8533.2. A fuse
+contains a piece of a metal that melts if the current running through it
+exceeds a particular level, thereby breaking the circuit. A PTC however
+increases its electrical resistance in response to the temperature increase
+in an event and then cycles back to a conductive state after the current is
+removed and the device cools. The PTC effect limits the flow of the current
+to a point where only a trickle of electricity still flows in order to protect
+sensitive electronics such as solid-state (silicon-based) integrated circuits.
+The thermistor limits the current but does not break the circuit. When the
+temperature decreases below its designated trip point, the resistance of
+the device reverts back to its original state. These devices have two primary
+uses. They can be placed in a series and used as an over-current protector
+or they can be used as temperature sensors to protect sensitive electrical
+components from damage when the application exceeds a defined
+temperature. When they have a power handling capacity handling capacity
+exceeding 20 W they are classifiable to 8533.29.00.
+Status: 
+F
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Reason: 
+A circuit breaker of 8535.21.00. 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 106 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,20278000 
+Heading: 8537.10.10 
+Status: 
+F 
+Instrument: 
+Date: 
+19/10/2011 
+Change_Date: 
+19/10/2011 
+Description: 
+Reason: 
+Programmable controllers are component
+devices and 8537.10.10 only covers the
+programmable controllers themselves. The
+heading does NOT cover machines
+incorporating programmable controllers.
+A description of PLCs is given in the 'reason
+for classification' section of this Precedent to
+give guidance on the type of devices the
+Department of Immigration and Border
+Protection would normally identify as
+programmable controllers. 
+Programmable controllers will normally comply with the international
+standard for programmable controllers, IEC 61131 (or under the old
+numbering system - IEC 1131) or an equivalent domestic standard. 
+Note: while the tariff refers to these devices as ‘programmable controllers’
+(PCs) the older name of ‘programmable logic controllers’, (PLCs) is used in
+industry and is more common. The terms ‘programmable controllers’ and
+‘programmable logic controllers’ are accepted as interchangeable.
+A PLC, like other numerical control apparatus, is microprocessor based and
+controls machine-tools, other machinery or industrial/manufacturing
+processes.
+To do this the PLC receives digital or analogue signals as
+input, runs its program to determine the appropriate output response and
+sends digital or analogue signals as that output. The program is stored in a
+form of non-volatile, writable memory.
+PLCs only control. They generally have the facility for extensive input/output
+(I/O) arrangements to connect the PLC to sensors and actuators.
+They do
+NOT perform any actions other than receiving and sending control signals
+from the connected devices.
+Unlike the average computer, a PLC is normally built to withstand severe
+conditions, e.g. dust, moisture, high/low/fluctuating temperatures and
+vibration. The inputs and outputs are frequently designed to accept
+hardwired connections from the sensors (input) and actuators (output).
+Programmed switchboards which allow users to select between a number of
+pre-programmed sequences or options, and other numerical control
+apparatus that simply allow users to select options or timings are not
+PLCs.
+Numerical control apparatus that is pre-programmed and which can
+not be reprogrammed by the user is not a PLCs. 
+The difference between a PLC and these other forms of numerical control
+apparatus is that the PLC is freely programmable within the limits of its
+functions as a controller of machinery.
+IEC 61131-3 defines five programming languages for programmable control
+systems: Function Block Diagram (FBD), Ladder Diagram (LD), Structured
+Text (ST), Instruction List (IL) and Sequential Function Chart (SFC). Using
+the language used by the particular PLC, a user can write and enter a new
+program for the PLC to follow.
+Unlike a computer (automatic data processing machine) these programs are
+constrained by the nature of the PLC to the function of controlling
+machinery.
+PLCs are components of systems and it is only in this form that they fall to
+8537.10.10. Once incorporated into larger systems or machines, the
+identity of the PLC is subsumed in the overall identity of the system or
+machine. 
+However, PLCs imported with integrated or attached human-machine
+interface devices, such as keyboards, visual displays etc, whose purpose is
+to enable the programming, debugging and/or control of the PLC are not
+normally considered to change the identity of the import from PLCs,
+provided that they do only perform functions integral to the PLC itself.
+Where doubt potentially exists as to whether goods are identifiable as a
+PLC, then submitting a Tariff Advice Application may be advisable. 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 107 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,19703600 
+Heading: 8537.10.90 
+Status: 
+F 
+Instrument: 
+Description: 
+Multiple-outlet portable power boards being a
+power distribution system with over-current
+protection, allowing several appliances to be
+plugged into one wall socket. These may also
+be called EPODs (Electrical Portable Outlet
+Devices) power strips, power blocks or surge
+protectors.
+These goods at the simplest consist of a
+number of sockets in a plastic or metal
+casing, a fuse and a flexible cable and a plug
+to connect to the mains supply.
+The units may have an off/on switch for the
+whole unit or for each socket. They may claim
+to provide surge protection as a major feature
+via devices such as varistors (MOV),
+capacitors and gas discharge tubes. The
+goods can incorporate USB connectors or
+phone/fax/network jacks. Features can include
+an LED (Light Emitting Diode) surge indicator
+light and equipment that claims to provide EMI
+(Electromagnetic Interference)/RFI (Radio-
+Frequency Interference) circuit protection
+and/or noise filtration.
+These goods can be in any shape or form, not
+only in strips or boards, but also for instance;
+blocks, towers, arcs, circular shapes. 
+Date: 
+1/02/2010 
+Change_Date: 
+1/02/2010 
+Reason: 
+The goods are described by the terms of heading 8537 as they are equipped
+with two or more items of heading 8536 mounted on a board, panel, console
+or other base or foundation. The goods may contain various sockets, jacks,
+switches, etc for making connections to or in electrical circuits, and fuses,
+circuit breakers and other surge suppressors and filters that are apparatus
+for protecting electrical circuits.
+The goods distribute electricity from one outlet to various devices.
+Legislation in each State of Australia requires that electrical multi-outlet
+power boards be approved by an Electrical Regulatory Authority before a
+manufacturer, importer or retailer is able to supply, or offer to supply, power
+boards to the general public. This requires compliance with the relevant
+national electrical safety standards.
+The standards require that all such power boards incorporate a safety
+overload device to help prevent overloading. Therefore all complying
+multiple-outlet portable power boards must contain at least two items of
+heading 8536 being socket-outlets and a circuit breaker of some sort, and
+consequently must be classified to subheading 8537.10.90. 
+19584900 
+Heading: 8538.90.90 
+Status: 
+F
+Instrument:
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Description: 
+Reason: 
+The ceramic envelope, also known as the
+Identified as part of a circuit breaker of 8535.21.00. Section XVI Note 2(b)
+"vacuum interrupter" which will, when in use,
+applies. 
+form the evacuated and hermetically sealed
+outer of a vacuum interrupter tube. Imported
+as the tube alone without the separate
+contacts and other components.
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 108 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,20472400 
+Heading: 8539.31.00 
+Status: 
+F 
+Instrument: 
+Description: 
+Compact-fluorescent lamps (CFLs) also
+known as compact-fluorescent light bulbs,
+‘energy saving 
+bulbs’ or compact-fluorescent tubes, are small
+fluorescent lights with their tubes shaped in
+various compact ways, so as to fit into most
+standard light fittings. They pass a current
+through a mixture of gases in the tube,
+causing the gases to emit UV radiation, which
+makes the phosphor coating on the inside of
+the tube glow (or fluoresce). 
+CFLs generally have inbuilt ballasts so that
+they can be used in light fittings that were
+made for 
+filament light bulbs. There are also 2-pin and
+4-pin plug-in compact-fluorescent lamps which
+do not have the ballast integrated and hence
+must be used with ballast equipped fittings. 
+This precedent only covers the lamp (light
+bulb or tube) and does not apply to light
+fittings. 
+19873000 
+Heading: 8541.40.00 
+Instrument: 
+Description: 
+Solar modules comprised of the following: 
+* monocrystalline silicon photovoltaic (PV)
+cells arranged in strings and encapsulated
+between a sheet of tempered glass and a
+polymer backing and 
+* a junction box which houses terminals to
+connect the strings of cells together, cables
+and connectors for external wiring, and
+bypass diodes (one for each string) to protect
+the cells from overheating when shaded. 
+Date: 
+28/05/2012 
+Change_Date: 
+Reason: 
+Compact-fluorescent lamps are hot cathode fluorescent discharge lamps of
+8539.31.00
+ 
+Note: When the tariff uses the term ‘lamps’ in the context of 8539, it is
+referring to what are
+ 
+commonly called “light bulbs” or “tubes” in Australia. The Harmonized
+System Explanatory Notes
+ 
+describe lamps as follows.
+ 
+“Electric light lamps consist of glass or quartz containers, of various shapes,
+containing the
+ 
+necessary elements for converting electrical energy into light rays (including
+infra-red or ultra-violet rays).”
+ 
+Status: 
+F 
+Date: 
+30/06/2010 
+Change_Date: 
+30/06/2010 
+Reason: 
+8541.40 covers photosensitive semiconductor devices, including
+photovoltaic cells whether or not assembled in modules or made up into
+panels.
+The Harmonized System Explanatory Notes further clarify by stating that: 
+"The heading also covers solar cells, whether or not assembled in modules
+or made up into panels. However the heading does not cover panels or
+modules equipped with elements, however simple, (for example, diodes to
+control the direction of the current), which supply the power directly to, for
+example, a motor, an electrolyser (heading 85.01)." 
+Although the goods described contain diodes to control the direction of
+current, they do not supply the power directly to an external load, such as a
+motor or an electrolyser, and therefore remain classified to 8541.40.00 
+19585000 
+Heading: 8543.70.00 
+Status: 
+F
+Instrument:
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Description: 
+Reason: 
+Infra-red remote control units for operating
+Identified in the Harmonized System Explanatory Notes as electrical
+video recorders, TV sets, compact disc
+apparatus having an individual function not elsewhere specified or included
+players, music centres and the like 
+in Chapter 85.
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 109 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,20935700 
+Heading: 8543.70.00 
+Status: 
+F 
+Instrument: 
+Date: 
+17/03/2014 
+Change_Date: 
+18/01/2017 
+Description: 
+Reason: 
+**This Precedent provides guidance on
+**This Precedent provides guidance on classification for import declarations
+classification for import declarations made
+made before 1 January 2017 only. Changes to Schedule 3 of the Customs
+before 1 January 2017 only. Changes to
+Tariff Act, taking effect on 1 January 2017, added "light-emitting diode (LED)
+Schedule 3 of the Customs Tariff Act, taking
+lamps”, that is LED bulbs, to the terms of heading 8539. Classification of
+effect on 1 January 2017, added "light­
+these goods, from 1 January 2017, is 8539.50.00.** 
+emitting diode (LED) lamps”, that is LED
+bulbs, to the terms of heading 8539.
+Before 1 January 2017 -
+Classification of these goods, from 1 January
+Heading 8539 
+2017, is 8539.50.00. The description of LED
+"Electric filament or discharge lamps, including sealed beam lamp units and
+lamps (bulbs) remains relevant.**
+ultraviolet or infra-red lamps; arc lamps" 
+The goods of this precedent are LED (light
+The wording of Heading 8539 names specific goods and does not include
+emitting diode) light bulbs, also called globes
+any residual term such as “and similar (or other) lamps” or “and similar
+or lamps, used in light fittings in place of
+articles” so does not allow LED lamps to be classified under this heading.
+incandescent bulbs (filament) and compact
+LED light bulbs or LED light globes are not identified as electrical filament or
+fluorescent bulbs/lamps (CFL or energy-
+discharge lamps etc. of heading 8539 as they operate on a different
+saving bulbs). LED light bulbs are presented
+technological basis.
+without any assemblies or components, such
+as drivers, that would cause the goods to
+Heading 8541 
+more correctly fall to the Heading 9405 as
+“Diodes, transistors and similar semiconductor devices; …” 
+light fittings and assemblies. 
+While incorporating a light emitting diode, or diodes, within the apparatus
+(known as chip on board) LED light globes do not fall to Heading 8541 as
+They are made in standard light bulb shapes
+they are considered to be more than a diode.
+with an Edison screw-thread base, two metal
+pins, two metal caps or a bayonet cap. This
+Heading 8541 covers light emitting diodes only as discrete semiconductor
+includes LED downlight bulbs and also LED
+devices, which means that finished articles consisting of LEDs and other
+tube lights designed to fit into fluorescent tube
+components, as in the case of the LED lamps at issue, cannot be classified
+fittings. 
+in Heading 8541. 
+The term ‘lamp’ in the Tariff is used in
+Heading 8543 
+headings 8513, 8539 and 9405.
+“Electrical machines and apparatus, having individual functions, not
+specified or included elsewhere in this Chapter”. 
+The Australian Tariff is based on the
+The technology of the light emitting diode provides the means for the device
+International Convention on the Harmonized
+to perform the function of emitting light. This function is the basis on which
+Commodity Description and Coding System
+the goods are considered to fall to Heading 8543 as electrical machines and
+and therefore some terms do not exactly
+apparatus having individual functions not specified or included elsewhere
+match Australian usage. 
+within Chapter 85 of the Customs Tariff. 
+In Australia, we usually call the above items
+The applicable Subheading is 8543.70.00 as the goods are not particle
+light bulbs or globes. The term, ‘electric
+accelerators, signal generators or for electroplating etc. 
+lamps’, is usually used for items such as table
+or floor lamps, i.e. a fitting. However, light
+When presented as more than an LED light bulb, such as with fittings,
+bulbs can be called ‘lamps’ in Australia and it
+reflectors, housings, transformers, cords, flex, switches, assemblies etc. the
+is the common term is some countries. In the
+goods would be considered to be lighting fittings of Heading 9405. In these
+Tariff, the term, ‘lamps’, is used for light bulbs
+cases the goods are not a bulb that is to be inserted into a fitting. The
+or globes, as well as table or floor lamps etc.
+goods include all the traditional aspects of a lighting fitting to be installed
+directly into the electricity network. Most common indoor LED light fittings
+Therefore: -
+are recessed fittings called downlights or spotlights, however there are many
+Heading 8513, “portable electric lamps
+other types. 
+designed to function by their own source of
+energy”, is referring to goods such as torches,
+i.e. a bulb, the fitting and the source of
+electricity, a battery. 
+Heading 8539 “electric filament or discharge
+lamps, including sealed beam lamp units and
+ultraviolet or infra-red lamps; arc lamps” is
+referring to the specified light bulbs and not to
+fittings or bulbs with fittings. 
+Heading 9405 “lamps and lighting fittings
+….not elsewhere specified or included” is
+referring to table and floor lamps, and light
+fittings. 
+This precedent applies to LED light bulbs or
+light globes. 
+End of Chapter 85 
+Number of records for Chapter: 
+25 
+Section XVI - MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL
+Page 110 of 147 
+EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS,

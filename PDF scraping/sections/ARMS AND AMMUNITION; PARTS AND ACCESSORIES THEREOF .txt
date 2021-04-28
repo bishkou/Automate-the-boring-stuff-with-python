@@ -1,0 +1,114 @@
+Section XIX - ARMS AND AMMUNITION; PARTS AND ACCESSORIES THEREOF 
+Chapter 93 Arms and ammunition; parts and accessories thereof 
+19586300 
+Heading: 9304.00.00 
+Instrument:
+Description: 
+Hand held electric-shock devices designed to
+administer an electric shock for the purpose of
+subduing a person. These devices are often
+referred to as "Tasers" (trade name) stun
+guns or stun batons. Often used by law
+enforcement personnel to subdue potentially
+dangerous or belligerent assailants, a "Taser"
+is an electroshock weapon that uses Electro-
+Muscular Disruption (EMD) technology to
+cause neuromuscular incapacitation or NMI
+and strong muscle contractions through the
+involuntary stimulation of both the sensory
+nerves and the motor nerves. This precedent
+covers all similar electric-shock weapons
+which have the same essential character and
+use as the above. There are currently two
+modes of operation of these devices. The first
+mode works by firing projectiles (normally
+small dart-like electrodes) which stay
+connected to the main unit by conductive wire.
+The second mode of operation requires direct
+contact between the device's electrodes and
+the body. It administers an electric shock by
+generating an electric arc between the two
+electrodes. 
+Status: 
+F
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Reason: 
+The subject goods are identified as a weapon for incapacitating humans,
+generally in a law enforcement situation. As such they are considered to be
+correctly classified within heading 9304.00.00 as 'Other Arms' vide IR 1.
+The terms of this heading are considered broad enough to encompass such
+weapons in both modes of operation, as evidenced by the examples in the
+HSEN to 9304 including gas guns, truncheons, aerosol spray cans and
+knuckledusters. 
+19586500 
+Heading: 9304.00.00
+ 
+Instrument:
+
+Description:
+ 
+Plastic replica hand guns capable of firing a
+pellet.
+Status: 
+F
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Reason: 
+Identified as "other arms" of heading 9304 rather than "toys" of 9503. As
+replica guns capable of firing a projectile have the potential to cause injury,
+they are covered by the term "arms". Because of the risk of injury, they are
+inappropriate for use as playthings by children and thus are not identified as
+toys. (AAT decision Re: Mans Nominees Pty. Ltd. and Collector of Customs
+Ref. V89/375 refers). 
+19586400 
+Heading: 9304.00.00 
+Status: 
+F
+Instrument:
+Date: 
+12/10/2009 
+Change_Date: 
+12/10/2009 
+Description: 
+Reason: 
+Paintball gun, designed for use in skirmish
+Identified an arm (not being a firearm), in this case a gas powered rifle. 
+type war games. These guns are gas
+operated and fire a paint type ball projectile
+which is designed to "mark" the target.
+19671400 
+Heading: 9306.90.00 
+Instrument:
+Description: 
+Paintballs, designed for use in skirmish type
+war games. They consist of a non-toxic water
+soluble biodegradable liquid encased in a
+plastic ball. They are fired from a gas powered
+rifle.
+Status: 
+F
+Date: 
+21/12/2009 
+Change_Date: 
+21/12/2009 
+Reason: 
+Paintball is a game in which players use compressed-gas-powered guns
+(paintball markers) to shoot each other with small balls of encapsulated
+colour (usually gelatine based). When these paintballs break, they leave a
+brightly-coloured mark signifying that the player is eliminated from the
+game. Paintball guns are identified as goods of 9304 00 00 (see
+19586400). As paintball markers are projectiles fired from a gas-operated
+firearm, they can be classified to Chapter 93. They therefore can not be
+classified to Chapter 95 as Chapter 95 Note 1(s) excludes articles of
+Chapter 93. Within Chapter 93, the goods are capsules that are classified
+as other projectiles in 9306 90 00. 
+End of Chapter 93 
+Number of records for Chapter: 
+4 
+Section XIX - ARMS AND AMMUNITION; PARTS AND ACCESSORIES THEREOF 
+Page 132 of 147

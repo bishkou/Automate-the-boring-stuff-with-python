@@ -1,0 +1,578 @@
+Section VI - PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
+Chapter 28	 Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of
+radioactive elements or of isotopes 
+20501200 
+Heading: 2812.90.00 
+Status: 
+F 
+Instrument: 
+Date: 
+2/07/2012 
+Change_Date: 
+Description: 
+Reason: 
+Sulfur Hexafluoride (SF6) is an inorganic gas,
+Chapter 28 Note 5 restricts Headings 2826 to 2842 to metal or ammonium
+generally transported as a liquefied
+salts or peroxysalts. 
+compressed gas. 
+"Headings 2826 to 2842 apply only to metal or ammonium salts or
+CAS number 2551-62-4 
+peroxysalts. 
+UN number 1080 
+Except where the context otherwise requires, double or complex salts are to
+be classified in heading 2842." 
+Synonyms include: 
+SF6 
+Classification therefore falls to 2812 as a halide of a non-metal.
+SULPHUR HEXAFLUORIDE 
+SULFUR FLUORIDE (SF6) 
+As sulfur hexafluoride is not a chloride, it falls to the ‘other’ classification of
+SULFUR FLUORIDE 
+2812.90.00. 
+SULFURYL HEXAFLUORIDE 
+SULFUR HEXAFLUORO 
+(OC-6-11)-Sulfurfluoride 
+(OC-6-11)­
+OC-6-11 
+Elegas 
+Esaflon 
+sulfurhexafluoride,highpurity 
+Sulphurhexafluoride2 
+Hexafluorosulfur 
+19573000 
+Heading: 2835.26.00 
+Status: 
+F
+Instrument:
+Date: 
+9/10/2009 
+Change_Date: 
+9/10/2009 
+Description: 
+Reason: 
+Synthetic bone ash that is tricalcium
+A bulky, white, amorphous powder that is odorless and tasteless, practically
+phosphate (Ca3(PO4)2) in a form which
+insoluble in water and in alcohol, but soluble in hydrochloric or nitric acid.
+complies with Note 1(a) to Chapter 28.
+Synthetically made replacement for natural bone ash.
+(This classification does not cover natural calcium phosphate - which is
+excluded from this Chapter and classified to heading 2510) 
+End of Chapter 28 
+Number of records for Chapter: 
+2 
+Organic chemicals 
+Chapter 29 
+19573100 
+Heading: 2908.99.00 
+Status: 
+F
+Instrument:
+Date: 
+9/10/2009 
+Change_Date: 
+9/10/2009 
+Description: 
+2,4,6,-Trinitrophenol (picric acid). 
+Reason: 
+Identified as a nitrated derivative of phenol. 
+19573200 
+Heading: 2921.11.00 
+Status: 
+F
+Instrument:
+Date: 
+9/10/2009 
+Change_Date: 
+9/10/2009 
+Description: 
+Distilled oleyldimethylamine, being a
+surfactant.
+Reason: 
+Although the goods are identified as a surface active agent, they are
+excluded from Chapter 34 by Note 1 (b). The goods are an amine function
+compound that conforms to Note 1(a) to Chapter 29 
+Section VI - PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES	
+Page 25 of 14719573300 
+Heading: 2924.19.00 
+Status: 
+F
+Instrument:
+Date: 
+9/10/2009 
+Change_Date: 
+9/10/2009 
+Description: 
+Dimethylol urea in aqueous solution,
+WITHOUT added perfume, whether or not
+containing formaldehyde resulting from
+dissociation of the product, used as a textile
+dressing. 
+Reason: 
+This is the classification when imported in a form which complies with the
+requirements of Chapter 29.
+When imported with added perfume as a preparation of a kind used in the
+textile industry, classification is to 3809 91 00. 
+End of Chapter 29 
+Number of records for Chapter: 
+3 
+Pharmaceutical products
+Chapter 30 
+19573600 
+Heading: 3005.90.90 
+Instrument:
+Description: 
+Temporary artificial skin, being microporous
+foam sheeting packaged in sealed sterile
+polyethylene foil envelopes. In this state the
+goods are soft and pliable, but on drying it
+becomes firm. The goods are used to treat
+soft tissue injuries such as infected wounds
+and burns. 
+Status: 
+F
+Date: 
+9/10/2009 
+Change_Date: 
+Reason: 
+The goods are a cutaneous dressing, similar in kind to the prepared frozen
+or lyophilised (dried) strips of animal skin tissue, used as temporary
+dressings for direct application to areas of skin loss, open tissue wounds,
+surgical infections, etc. They are put up in forms for retail sale for medical
+purposes. 
+End of Chapter 30 
+Number of records for Chapter: 
+1 
+Chapter 33 Essential oils and resinoids; perfumery, cosmetic or toilet preparations 
+19573900 
+Heading: 3304.99.00 
+Instrument:
+Description: 
+Vitadye lotion, being a product that is used by
+sufferers of vitiligo. Vitiligo is a condition in
+which completely white patches develop in the
+skin. The goods are applied externally to
+affected bodily areas, and, by chemically
+reacting with the skin's natural pigment, it will
+darken the skin over a gradual period of time
+to match the colour of the unaffected areas
+around it.
+Status: 
+F
+Date: 
+9/10/2009 
+Change_Date: 
+Reason: 
+The subject goods do not treat the condition, but are a cosmetic
+camouflage. The goods are identified as a synthetic suntan lotion. 
+19573700 
+Heading: 3304.99.00 
+Instrument:
+Description: 
+Cosmetics put up in sets for use by young
+children. The sets the subject of this opinion
+contain real cosmetics. They may also contain
+other small items such as a mirror or comb
+but with the cosmetics being the items which
+provide the essential character of the set: the
+set being a 'cosmetic set'. 
+Status: 
+F
+Date: 
+9/10/2009 
+Change_Date: 
+Reason: 
+While the cosmetics may be of low value and are intended for children at
+play, this does not automatically make these goods toys of Chapter 95.
+Classification of goods sold as toys must take into account the nature of the
+goods, any utilitarian value or function, and the impact of terms of headings,
+legal Notes and the Interpretive Rules.
+Chapter 33 must also be considered. Heading 3304 covers 'beauty or make­
+up preparations' within its terms of heading and Chapter 33 Note 3 states
+that heading 3304 applies to products - "suitable for use as goods of these
+headings and put up in packings of a kind sold by retail for such use".
+Section 6, Note 2 states that goods classifiable in heading 3304 - "by reason
+of being put up in measured doses or for retail sale are to be classified in
+those headings and in no other heading of the Nomenclature". These goods
+are real cosmetics so are both 'make-up preparations' and suitable for use
+as make-up preparations. They are sold in retail packings for use, by
+children, as make-up preparations. 
+Section VI - PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
+Page 26 of 14719573800 
+Heading: 3304.99.00 
+Status: 
+F
+Instrument:
+Description: 
+Lip balms for care of the skin or providing
+colour or gloss. Care of the skin includes
+moisturising, providing sun protection or
+soothing chapping. 
+19574100 
+Heading: 3304.99.00
+ 
+Instrument:
+
+Description:
+ 
+Injectable intracutaneous gels for wrinkle
+elimination and lip enhancement (including
+those containing hyaluronic acid) 
+Status: 
+F
+Date: 
+9/10/2009 
+Change_Date: 
+Reason: 
+As clarified in the Harmonized System Explanatory Notes (HSEN) these
+products are classifiable to heading 3304 - "Beauty or make-up preparations
+and preparations for the care of the skin (other than medicaments) ...".
+Note 1(d) to Chapter 30 excludes "Preparations of headings 33.03 to 33.07,
+even if they have therapeutic or prophylactic properties;". This means that
+even if goods have pharmaceutical or disinfectant constituents, they cannot
+be classified in Chapter 30 if classifiable in 3304. Wrinkles and beauty (or a
+perceived lack of it) are not illnesses and therefore the product is not a
+medicament and is included in 3304. This was also the conclusion of the
+World Customs Organisation at its 30th Session of the Harmonized System
+Committee and this meeting led to the specific inclusion of these goods in
+the HSEN to 3304. 
+19574000 
+Heading: 3304.99.00 
+Instrument:
+Description: 
+A cosmetic make up kit comprising assorted
+lipsticks, eye shadow of various colours,
+blush, applicator brush and applicator foam
+stick and presented in a plastic or cardboard
+container. This opinion does not cover goods
+where the container is of a quality or type that
+it is clearly designed to be used long after the
+cosmetics are exhausted. This opinion only
+covers those kits were the container's
+characteristics clearly indicate it is only
+intended for use in storing and transporting
+the cosmetic goods sold in the container. 
+Status: 
+F
+Date: 
+9/10/2009 
+Change_Date: 
+Reason: 
+The goods are identified as a cosmetic kit with the cosmetics of 3304 giving
+the essential character. At the subheading level, classification to essential
+character is usually not appropriate where there is a balanced range of lip,
+eye and skin cosmetics. Classification will normally proceed at the
+subheading level on the basis of last occurring being 3304.99.00. 
+19574200 
+Heading: 3305.10.00
+ 
+Instrument:
+
+Description:
+ 
+Medicated hair shampoos, being shampoos
+having a therapeutic capability. 
+Date: 
+9/10/2009 
+Change_Date: 
+Reason: 
+Certain lip ointments are used to treat cold sores, fever blisters etc, and can
+be identified as a medicament due to the active ingredients included. Lip
+ointments identified as a medicament are classified to heading 3004. Other
+lip balms and lip ointments, not containing active ingredients, cannot be
+identified as medicaments. These types are used as sun blocks,
+moisturisers etc, and are identified as preparations for the care of the skin
+and classified to heading 3304. 
+Status: 
+F
+Date: 
+9/10/2009 
+Change_Date: 
+Reason: 
+These goods are identified as a shampoo which has therapeutic capability
+as opposed to those preparations which are to attend to some scalp
+disorder, but do not function as a shampoo. The classifications in
+contention appear to be headings 3305 and 3003. Chapter 33 Note 3
+confirms the availability of 3305 and Chapter 30 Note 1(d) directs
+classification to 3305. Products of 3305 (amongst others) cannot fall to
+Chapter 30, even if they have therapeutic or prophylactic properties.
+Shampoos, medicated or not, fall to 3305. 
+Section VI - PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
+Page 27 of 14719671300 
+Heading: 3305.90.00 
+Status: 
+F
+Instrument:
+Date: 
+21/12/2009 
+Change_Date: 
+Description: 
+Reason: 
+Hair dye being colour creme to be used by
+professional colourists (hairdresser) and
+packaged in tubes, or other packings, of a
+size suitable for use by the colourist to colour
+a client's hair. 
+The user of the dye is the colourist, who uses the dye in providing a hair
+colouring service. Federal Court precedent supports the fact that
+professionals can be described as ultimate consumers and that sale to a
+professional can meet the criteria for being considered a retail sale. The
+goods were clearly packaged for use in a manner and in quantities, suitable
+without repacking, for sale to the ultimate consumer. Section VI Note 2
+requires that goods classifiable to headings 3212 or 3305 (among others) by
+reason of being put up for retail sale are to be classified in those headings
+and no other heading. As 3212 and 3305 were candidate headings for that
+reason, no other headings could be considered. Chapter 33 Note 3 specified
+that heading 3305 (among others) applies to goods suitable for use as
+goods of that heading and put up in packings of a kind sold by retail for such
+use. They are in packings of a kind sold by retail for use as a preparation
+for use on the hair. Therefore the Note directs these goods to 3305. 
+19574300 
+Heading: 3307.90.00 
+Status: 
+F
+Instrument:
+Date: 
+9/10/2009 
+Change_Date: 
+Description: 
+Reason: 
+Dog and cat repellent put up in the form of
+Note 4 to Chapter 33 states that 3307 applies, inter alia, to wadding, felt and
+small buds, for attachment to garden trees
+nonwovens, impregnated, coated or covered with perfume. 
+and shrubs to prevent fouling. The active
+ingredients comprise a concentrated perfume
+which effectively counters the residual animal
+odours that attract dogs and cats.
+End of Chapter 33 
+Number of records for Chapter: 
+8 
+Chapter 35 Albuminoidal substances; modified starches; glues; enzymes 
+20500900 
+Heading: 3506.10.00 
+Instrument: 
+Description: 
+Thread locker, being single component,
+anaerobic adhesive fluids designed for use
+with threaded fasteners (screws, bolts, etc) or
+other threaded articles. 
+This precedent covers thread locker when put
+up for sale to the end user for use as an
+adhesive and put up in bottles or other
+containers with a net weight of 1kg or less. 
+Status: 
+F 
+Date: 
+2/07/2012 
+Change_Date: 
+Reason: 
+The terms of heading 3506 refer to products put up for retail sail as glues or
+adhesives. Where 
+thread locker is imported for use as an adhesive and in the packaging in
+which it will be sold to the ultimate consumer: that is, in which it will be sold
+to the people who will apply it to threads, then it is put up retail sale. 
+Provided the size of the packs is one kilogram or less, then classification is
+to 3506.10.00 
+End of Chapter 35 
+Number of records for Chapter: 
+1 
+Section VI - PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
+Page 28 of 147Chapter 38 Miscellaneous chemical products 
+21820600 
+Heading: 3808.61.90 
+Instrument: 
+Description: 
+This precedent provides clarification regarding
+the classification of chemically impregnated
+collars for dogs. The product includes the
+chemical propoxur as an active component in
+pest control and is used for the control of ticks
+and fleas. The product is imported in
+packages of a net weight under 300g. 
+Status: 
+F 
+Date: 
+13/04/2017 
+Change_Date: 
+Reason: 
+The goods are not classified to heading 3004 as they do not have a
+therapeutic or prophylactic effect, within the meaning of that heading. This
+is supported by the Harmonized Explanatory Notes to 3004, which exclude
+at (e) “Insecticides, disinfectants, etc., of heading 3808, not put up for
+internal or external use as medicines”. 
+A flea and/or tick collar is identified as being a pesticide made in the form of
+a collar. The pesticide is considered to provide the essential character of
+the good.
+The terms of heading 3808 covers insecticides, rodenticides, fungicides,
+herbicides, anti-sprouting products and plant-growth regulators, disinfectants
+and similar products, put up in forms or packaging for retail sale or as
+preparations or articles (for example, sulphur-treated bands, wicks and
+candles, and fly-papers). 
+Flea or tick collars are articles and are imported in a form, or packed, for
+retail sale. As these goods are classifiable to heading 3808 by reason of
+being for retail sale, and are not goods to which Note 1 of Section VI
+applies, Note 2 to Section VI directs the goods to be classified in 3808 and
+in no other heading of the Nomenclature.
+The changes to Schedule 3 of the Customs Tariff Act 1995, taking effect on
+1 January 2017, added Subheading Note 2. Where the collars are
+impregnated with one or more of the substances listed in Subheading Note
+2, the goods are classified to subheading 3808.6. Propoxur is listed in the
+Note. 
+The ingredients of imported products should be checked for common or
+alternative names for all the listed substances. 
+At the 8 digit subheading level, goods are classified to subheading
+3808.61.90 if the net weight of the contents, that is the goods without the
+retail packaging, is 300 g or less. If the net weight is over 300 g but does
+not exceed 7.5 kg, classification falls to 3808.62.90. For net weight
+exceeding 7.5 kg, subheading 3808.69.90 applies. Classification is by
+Interpretative Rule (IR) 1 and 6. 
+Where a pesticide collar does not contain a chemical listed in Subheading
+Notes 1 or 2, classification will fall to other subheadings of 3808. Note that
+ticks are arachnids not insects. Classification will be according to the IRs. 
+Classification to heading 3808 is supported by WCO COCO 380891/4 of
+2013. 
+19576100 
+Heading: 3809.91.00 
+Status: 
+F
+Instrument:
+Date: 
+9/10/2009 
+Change_Date: 
+Description: 
+Reason: 
+Hansa flame retardant for textiles.
+Identified as a flame retardant preparation based on phosphorous, of a kind
+used in the textile industry, not elsewhere specified or included.
+19575700 
+Heading: 3809.91.00 
+Instrument:
+Description: 
+Mixtures of addition compounds of low
+molecular weight presenting various degrees
+of methylolisation, sometimes containing free
+formaldehyde and whether or not etherified
+(such as: monomethylol and dimethylol ureas;
+trimethylol and pentamethylol melamines;
+dimethylol ethyleneurea and etherified
+polymethylol melamine), used as textile
+dressings 
+Status: 
+F
+Date: 
+9/10/2009 
+Change_Date: 
+Reason: 
+A preparation of a kind used in the textile industry, not elsewhere specified
+or included. 
+Section VI - PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
+Page 29 of 14719575800 
+Heading: 3809.91.00 
+Status: 
+F
+Instrument:
+Date: 
+9/10/2009 
+Change_Date: 
+Description: 
+Reason: 
+Dimethylol urea in aqueous solution, WITH
+A preparation of a kind used in the textile industry, not elsewhere specified
+ADDED PERFUME, whether or not containing
+or included. When without perfume and complying to the requirements of
+formaldehyde resulting from dissociation of
+Chapter 29, classification is to 2924.19.00 
+the product, used as a textile dressing. 
+19576200 
+Heading: 3809.91.00 
+Instrument:
+Description: 
+Fabric relaxant in a pressurised spray can, for
+spraying on clothing or fabric to remove
+creases or wrinkles. Chemical constituents
+are as follows: propellant type propane and
+isobutane, silicone glycol copolymer
+surfactant, ethanol, dimethyl diammonium c
+Status: 
+F
+Date: 
+9/10/2009 
+Change_Date: 
+Reason: 
+Identified as a preparation of a kind used in the textile industry not
+elsewhere specified or included. 
+19575900 
+Heading: 3809.91.00 
+Status: 
+F
+Instrument:
+Date: 
+9/10/2009 
+Change_Date: 
+Description: 
+Reason: 
+Mixtures of two diazonium salts diluted to
+standard strength by the addition of sodium
+sulphate and sodium chloride, and producing,
+with a coupler, on certain textile fibres, an
+insoluble dye the shade of which would be
+unobtainable with a single di-azonium salt.
+A preparation of a kind used in the textile industry, not elsewhere specified
+or included. 
+19576000 
+Heading: 3809.91.00 
+Status: 
+F
+Instrument:
+Date: 
+9/10/2009 
+Change_Date: 
+Description: 
+Reason: 
+Trimethylol melamine in aqueous solution,
+WITH ADDED PERFUME, whether or not
+containing formaldehyde resulting from
+dissociation of the product, used as a textile
+dressing.
+A preparation of a kind used in the textile industry, not elsewhere specified
+or included.
+When without perfume and complying to the requirements of Chapter 29,
+classification is to 2933.69.00 
+19670700 
+Heading: 3822.00.50 
+Instrument:
+Description: 
+Certified Reference Material (CRM) consisting
+of, or produced from, any of the following:
+human blood; animal blood; antisera and
+other blood fractions and modified
+immunological products, whether or not
+obtained by means of biotechnological
+processes; vaccines; toxins; cultures of micro­
+organisms and similar products.
+Status: 
+F
+Date: 
+21/12/2009 
+Change_Date: 
+Reason: 
+A Certified Reference Material (CRM) has one or more values certified by a
+technically valid procedure and accompanied by a certificate issued by a
+certifying body. The certificate indicates the values of the certified
+properties, the methods used to determine these values and the degree of
+certainty associated with each value and which are suitable for analytical,
+calibrating or referencing purposes
+NOTE: The term "Standard Reference Material" (SRM) is the name of a
+Certified Reference Material which been certified and distributed by the
+National Institute of Standards and Technology (NIST) a non-regulatory
+federal agency within the U.S. Department of Commerce.
+Where products that would otherwise be classifiable to 3002 meet the
+requirements laid out in Chapter 38 Note 2(A) then classification must be to
+heading 3822. 
+End of Chapter 38 
+Number of records for Chapter: 
+8 
+Section VI - PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
+Page 30 of 147
